@@ -1171,4 +1171,14 @@ window.addEventListener('scroll', () => {
   document.getElementById('scrollTopBtn').classList.toggle('visible', window.scrollY > 400);
 });
 
+  // Expose interactive functions to global scope so inline onclick handlers can reach them
+  window.openModal = openModal;
+  window.closeModal = closeModal;
+  window.toggleSave = toggleSave;
+  window.shareOpportunity = shareOpportunity;
+  window.doShareCopy = doShareCopy;
+  window.addToCalendar = addToCalendar;
+  window.calShowAll = calShowAll;
+  window.refreshModalSave = refreshModalSave;
+
 } // end init()
