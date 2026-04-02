@@ -15,7 +15,7 @@
     ],
     "description": "Artadia provides unrestricted grants to visual artists in cities across the United States. Awards support artists at pivotal moments in their careers, offering financial support and entry into a lasting network. The program prioritizes artists demonstrating exceptional creative vision.",
     "eligibility": "Emerging and mid-career visual artists residing in select US cities.",
-    "url": "https://artadia.org",
+    "url": "https://artadia.submittable.com/submit",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -38,7 +38,7 @@
     ],
     "description": "A prestigious post-academic institute offering one-year residencies for artists, designers, and theorists. Residents receive studio space, a monthly stipend, research facilities, and access to an international peer network emphasising experimental and research-driven practice. The 2027 residency call typically opens October–December 2026.",
     "eligibility": "Open internationally. All disciplines welcome.",
-    "url": "https://janvaneyck.nl"
+    "url": "https://janvaneyck.nl/apply/"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     ],
     "description": "Creative Capital supports artists pursuing adventurous projects that break new ground. Awardees receive multi-year financial support, professional development, and strategic guidance. The program particularly encourages proposals that are bold and unconventional.",
     "eligibility": "US-based artists, all career stages.",
-    "url": "https://creative-capital.org"
+    "url": "https://creative-capital.org/creative-capital-award/award-application/"
   },
   {
     "id": 5,
@@ -110,7 +110,7 @@
     ],
     "description": "ISCP provides studios to artists and curators from around the world in Brooklyn, New York. Residents gain access to professional development, peer critique, studio visits from curators and collectors, and a robust public program.",
     "eligibility": "International artists and curators, all career stages.",
-    "url": "https://iscp-nyc.org"
+    "url": "https://iscp-nyc.org/apply"
   },
   {
     "id": 8,
@@ -129,7 +129,7 @@
     ],
     "description": "The Harpo Foundation supports under-recognised visual artists whose work is not well-served by mainstream institutions. Provides unrestricted grants to artists with a serious commitment to artistic investigation and a distinctive, developing voice. 7–10 grants awarded annually.",
     "eligibility": "US-based visual artists 21 or older who are self-defined under-recognised.",
-    "url": "https://www.harpofoundation.org/apply/emerging-artist-grant/",
+    "url": "https://harpofoundation.submittable.com/submit",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -149,7 +149,7 @@
     ],
     "description": "Dak'Art is Africa's foremost contemporary art biennial. The open exhibition invites artists from Africa and the African diaspora to submit proposals for official and off-site programs.",
     "eligibility": "Artists from Africa and the African diaspora.",
-    "url": "https://www.dakart.org"
+    "url": "https://biennaledakar.org/"
   },
   {
     "id": 10,
@@ -168,7 +168,7 @@
     ],
     "description": "The Graham Foundation makes project-based grants to develop and communicate new ideas about architecture and its role in culture. Supports exhibitions, publications, installations, digital projects, and research.",
     "eligibility": "Individuals and organisations internationally.",
-    "url": "https://www.grahamfoundation.org"
+    "url": "https://www.grahamfoundation.org/grant_programs/?mode=individual"
   },
   {
     "id": 11,
@@ -184,7 +184,7 @@
     ],
     "description": "The Cité Internationale des Arts in Paris offers studios to artists from over 60 countries. Residencies of 3–12 months provide access to a professional studio, subsidised housing, and an international artistic community.",
     "eligibility": "Open internationally through bilateral agreements and direct applications.",
-    "url": "https://www.citedesartsparis.fr"
+    "url": "https://www.citeinternationaledesarts.fr/en/programmes-de-residence/"
   },
   {
     "id": 12,
@@ -220,7 +220,7 @@
     ],
     "description": "Art Omi's Artists Residency is a fully funded, three-week summer program for international visual artists in the Hudson Valley. Residents work in individual studios and engage in dialogue with fellow artists, writers, musicians, and architects.",
     "eligibility": "International artists. All career stages.",
-    "url": "https://www.artomi.org"
+    "url": "https://artomi.org/residencies/art/"
   },
   {
     "id": 15,
@@ -257,7 +257,7 @@
     ],
     "description": "The Pollock-Krasner Foundation aids professional artists internationally who have worked over a significant period. Grants are for one year and intended for working studio artists of recognizable merit.",
     "eligibility": "Professional visual artists. No students or commercial artists.",
-    "url": "https://pkf.org"
+    "url": "https://www.pkf.org/apply/how-to-apply/"
   },
   {
     "id": 17,
@@ -274,7 +274,7 @@
     ],
     "description": "Located in the Golden Gate National Recreation Area, Headlands offers 1–3 month residencies. Artists live on-site in a former military installation with spectacular ocean views.",
     "eligibility": "Artists of all disciplines, career stages, and nationalities.",
-    "url": "https://www.headlands.org"
+    "url": "https://headlands.slideroom.com/"
   },
   {
     "id": 18,
@@ -309,7 +309,7 @@
     ],
     "description": "The FotoEvidence Book Award supports documentary photographers addressing pressing social issues and human rights. The annual award results in a professionally published book with international distribution.",
     "eligibility": "Professional documentary photographers internationally.",
-    "url": "https://www.fotoevidence.com"
+    "url": "https://www.fotoevidence.com/book-award"
   },
   {
     "id": 20,
@@ -345,7 +345,7 @@
     ],
     "description": "Skowhegan is an intensive 9-week summer residency for emerging artists. Sixty-five artists gather on 350 acres on the shores of Wesserunsett Lake with distinguished visiting faculty.",
     "eligibility": "Artists in the early stages of their careers. International applications welcome.",
-    "url": "https://www.skowheganart.org"
+    "url": "https://skowheganart.org/school/"
   },
   {
     "id": 22,
@@ -363,7 +363,7 @@
     ],
     "description": "The Art + Technology Lab supports artists working with emerging technologies including AI, biotechnology, augmented and virtual reality, robotics, and advanced materials.",
     "eligibility": "Artists working at the intersection of art and technology, internationally.",
-    "url": "https://www.lacma.org/art-technology-lab"
+    "url": "https://lacma.submittable.com/submit/348727/2026-art-technology-lab-grants"
   },
   {
     "id": 23,
@@ -381,7 +381,7 @@
     ],
     "description": "Belgium's leading festival for the moving image invites proposals for new and existing works that engage critically with global political and social realities.",
     "eligibility": "Open internationally to established and emerging artists working in moving image.",
-    "url": "https://www.contour9.be"
+    "url": "https://contourbiennale.org/en/"
   },
   {
     "id": 24,
@@ -399,7 +399,7 @@
     ],
     "description": "Prix Pictet is the world's leading award in photography and sustainability. Each cycle focuses on a single theme. An international touring exhibition accompanies the award.",
     "eligibility": "Nominated by curators internationally. Photographers of all nationalities.",
-    "url": "https://www.prixpictet.com"
+    "url": "https://prix.pictet.com/"
   },
   {
     "id": 25,
@@ -417,7 +417,7 @@
     ],
     "description": "The FCA Emergency Grants program provides immediate, short-term relief to artists requiring quick access to funds not available through other mechanisms.",
     "eligibility": "Experimental artists in all disciplines at all career stages.",
-    "url": "https://www.foundationforcontemporaryarts.org"
+    "url": "https://www.foundationforcontemporaryarts.org/grants/emergency-grants/"
   },
   {
     "id": 26,
@@ -436,7 +436,7 @@
     ],
     "description": "The Camargo Foundation in Cassis, France offers residential fellowships to scholars, artists, and writers whose work focuses on French and Francophone cultures in a Mediterranean setting.",
     "eligibility": "Scholars, artists, and writers from all countries.",
-    "url": "https://www.camargofoundation.org"
+    "url": "https://camargofoundation.submittable.com/submit"
   },
   {
     "id": 27,
@@ -454,7 +454,7 @@
     ],
     "description": "The Frieze Artist Award supports emerging or under-recognised artists to realise an ambitious, site-responsive work within the Frieze London fair context.",
     "eligibility": "Artists not yet represented by a major commercial gallery. Open internationally.",
-    "url": "https://www.frieze.com"
+    "url": "https://artistaward.frieze.com/site/login"
   },
   {
     "id": 28,
@@ -488,7 +488,7 @@
     ],
     "description": "The Rema Hort Mann Foundation supports emerging artists based in New York City with unrestricted grants. The foundation prioritises artists who demonstrate significant creative potential but have not yet received wide institutional recognition.",
     "eligibility": "Emerging artists based in New York City.",
-    "url": "https://www.remahortmannfoundation.org",
+    "url": "https://remahortmannfoundation.submittable.com/submit",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -509,7 +509,7 @@
     ],
     "description": "The Joan Mitchell Foundation provides grants to painters and sculptors at critical junctures in their career. The program champions artists with a sustained commitment to their practice and supports the full spectrum of painting and sculpture.",
     "eligibility": "US-based painters and sculptors at any career stage.",
-    "url": "https://www.joanmitchellfoundation.org"
+    "url": "https://joanmitchellfoundation.submittable.com/submit"
   },
   {
     "id": 32,
@@ -579,7 +579,7 @@
     ],
     "description": "Canada Council for the Arts supports Canadian visual artists through project grants, creation residencies, and professional development funding. Grants cover a wide range of practices including painting, sculpture, craft, and digital media.",
     "eligibility": "Canadian citizens and permanent residents.",
-    "url": "https://canadacouncil.ca"
+    "url": "https://apply.canadacouncil.ca/"
   },
   {
     "id": 37,
@@ -597,7 +597,7 @@
     ],
     "description": "Australia Council for the Arts provides grants to Australian artists across all disciplines. Funding streams support early career, mid-career, and established artists for projects, residencies, and professional development.",
     "eligibility": "Australian citizens and permanent residents.",
-    "url": "https://www.australiacouncil.gov.au"
+    "url": "https://creative.gov.au/investments-opportunities/application-process/"
   },
   {
     "id": 38,
@@ -614,7 +614,7 @@
     ],
     "description": "The Goethe-Institut's artist residency grants support international artists for residency periods in Germany, facilitating cultural exchange and collaboration with German artists and institutions.",
     "eligibility": "International artists from Goethe-Institut partner countries.",
-    "url": "https://www.goethe.de"
+    "url": "https://www.goethe.de/en/kul/foe.html"
   },
   {
     "id": 39,
@@ -632,7 +632,7 @@
     ],
     "description": "Prince Claus Fund Seed Awards are quick-response grants for artists and cultural practitioners in Africa, Asia, Latin America, and the Caribbean whose work has been disrupted by crisis, censorship, or emergency circumstances.",
     "eligibility": "Artists and cultural practitioners from Africa, Asia, Latin America, and the Caribbean.",
-    "url": "https://princeclausfund.org"
+    "url": "https://princeclausfund.nl/awards-and-programmes/seed-award/2026-call-for-applications"
   },
   {
     "id": 40,
@@ -650,7 +650,7 @@
     ],
     "description": "The Hyundai Tate Research Centre: Transnational supports research into art from regions underrepresented in Western art history. Grants fund curatorial research, archival projects, and scholarly publications.",
     "eligibility": "Curators, researchers, and scholars internationally.",
-    "url": "https://www.tate.org.uk/research"
+    "url": "https://www.tate.org.uk/research/brooks-international-fellowship-programme"
   },
   {
     "id": 41,
@@ -668,7 +668,7 @@
     ],
     "description": "The Robert Rauschenberg Foundation supports artists whose practice addresses urgent social and environmental issues. Grants fund projects that deploy artistic creativity as a tool for social transformation and community building.",
     "eligibility": "Artists internationally whose practice engages with social justice.",
-    "url": "https://rauschenbergfoundation.org"
+    "url": "https://www.rauschenbergfoundation.org/how-apply"
   },
   {
     "id": 42,
@@ -686,7 +686,7 @@
     ],
     "description": "Wellcome Trust's arts funding supports ambitious creative projects that explore health, medicine, and what it means to be human. The trust funds theatre productions, visual art commissions, digital projects, and public installations.",
     "eligibility": "Artists, organisations, and producers internationally.",
-    "url": "https://wellcome.org/grant-funding/schemes/arts-awards"
+    "url": "https://wellcome.org/grant-funding/schemes/public-engagement-fund"
   },
   {
     "id": 43,
@@ -704,7 +704,7 @@
     ],
     "description": "The Whiting Award recognises emerging writers of exceptional talent and promise, including those working at the intersection of writing and visual practice. Awards are made in fiction, nonfiction, poetry, and hybrid forms.",
     "eligibility": "Emerging US writers nominated by literary professionals.",
-    "url": "https://www.whiting.org"
+    "url": "https://www.whiting.org/writers/creative-nonfiction-grant"
   },
   {
     "id": 44,
@@ -758,7 +758,7 @@
     ],
     "description": "The Sharjah Biennial is one of the most important platforms for contemporary art from the Global South. The open call invites proposals from artists internationally, with emphasis on work engaging postcolonial narratives, ecology, and community.",
     "eligibility": "Open internationally, priority to artists from Africa, Asia, and Latin America.",
-    "url": "https://www.sharjahart.org"
+    "url": "https://www.sharjahart.org/en/open-calls/list"
   },
   {
     "id": 47,
@@ -776,7 +776,7 @@
     ],
     "description": "The Istanbul Biennial is one of Europe's most important contemporary art exhibitions, held every two years across venues throughout the city. The open submission programme invites proposals from artists engaged with urgent cultural and political questions.",
     "eligibility": "Open internationally to mid-career and established artists.",
-    "url": "https://bienal.iksv.org"
+    "url": "https://bienal.iksv.org/en"
   },
   {
     "id": 48,
@@ -794,7 +794,7 @@
     ],
     "description": "Manifesta is the European Nomadic Biennial, held in a different European city each edition. Each biennial involves deep engagement with the host city's cultural and political fabric. Open calls are issued for site-specific commissions.",
     "eligibility": "Open to European and international artists.",
-    "url": "https://manifesta.org"
+    "url": "https://manifesta16.org/opencall"
   },
   {
     "id": 49,
@@ -847,7 +847,7 @@
     ],
     "description": "NEON is Greece's leading non-profit arts organisation supporting contemporary art. Open calls are issued for exhibitions at venues across Athens, including the Benaki Museum and NEON's own spaces.",
     "eligibility": "Emerging and mid-career international artists.",
-    "url": "https://neon.org.gr"
+    "url": "https://neon.org.gr/en/neon-grants-scheme/"
   },
   {
     "id": 52,
@@ -953,7 +953,7 @@
     ],
     "description": "Photo London is the UK's leading international photography fair. The Discovery section is dedicated to emerging photographers, galleries, and platforms presenting work for the first time in a major international context.",
     "eligibility": "Emerging photographers and photography organisations internationally.",
-    "url": "https://photolondon.org"
+    "url": "https://photolondon.org/positions/"
   },
   {
     "id": 58,
@@ -971,7 +971,7 @@
     ],
     "description": "UNSEEN is a platform and fair dedicated to new developments in photography. The open call invites experimental photographers and lens-based artists to present breakthrough projects to a curated international audience.",
     "eligibility": "Emerging and experimental photographers internationally.",
-    "url": "https://unseenplatform.com"
+    "url": "https://www.unseenamsterdam.com/open-call"
   },
   {
     "id": 59,
@@ -989,7 +989,7 @@
     ],
     "description": "Art Dubai is the leading international art fair in the Middle East and Global South. The gallery programme and commissions initiative provides emerging and mid-career artists with access to collectors and institutions across the region.",
     "eligibility": "Artists represented by galleries or applying through institutional endorsement.",
-    "url": "https://www.artdubai.ae"
+    "url": "https://application.artdubai.ae/"
   },
   {
     "id": 60,
@@ -1007,7 +1007,7 @@
     ],
     "description": "India Art Fair is South Asia's leading platform for modern and contemporary art, bringing together galleries from India and internationally. The Platform section invites proposals from independent artists and project spaces.",
     "eligibility": "Artists from South Asia and the diaspora. Open internationally.",
-    "url": "https://www.indiaartfair.in"
+    "url": "https://indiaartfair.in/noticeboard"
   },
   {
     "id": 61,
@@ -1063,7 +1063,7 @@
     ],
     "description": "MacDowell has provided residencies to artists since 1907. Fellows receive private studios, housing, and all meals on 450 acres of woodland in New Hampshire. MacDowell welcomes writers, visual artists, composers, filmmakers, and interdisciplinary artists.",
     "eligibility": "Professional artists in any discipline, all career stages, internationally.",
-    "url": "https://www.macdowell.org"
+    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
   },
   {
     "id": 64,
@@ -1082,7 +1082,7 @@
     ],
     "description": "Yaddo is one of America's oldest and most celebrated residency programmes, offering private studios and housing in a historic estate in upstate New York. Residents work intensively for periods of two weeks to two months.",
     "eligibility": "Professional artists in mid-career or beyond. Applications by nomination or direct.",
-    "url": "https://www.yaddo.org"
+    "url": "https://yaddo.org/apply/"
   },
   {
     "id": 65,
@@ -1100,7 +1100,7 @@
     ],
     "description": "One of Berlin's most prestigious artist residency programmes, Künstlerhaus Bethanien offers 12-month studio residencies in the heart of Kreuzberg. Residents benefit from professional mentoring, studio visits, and integration into Berlin's vibrant art scene.",
     "eligibility": "Early to mid-career international artists. Competitive selection process.",
-    "url": "https://www.bethanien.de"
+    "url": "https://bethanien.de/en/application/"
   },
   {
     "id": 66,
@@ -1118,7 +1118,7 @@
     ],
     "description": "The Delfina Foundation offers residencies in London for artists and curators from around the world. Thematic residency programmes address pressing political, social, and ecological questions. Residents engage deeply with London's arts ecology.",
     "eligibility": "International artists and curators at any career stage.",
-    "url": "https://www.delfinafoundation.com"
+    "url": "https://www.delfinafoundation.com/open-calls/current/"
   },
   {
     "id": 67,
@@ -1137,7 +1137,7 @@
     ],
     "description": "Akademie Schloss Solitude in Stuttgart offers 12-month fellowships to artists, scholars, and practitioners from around the world. Set in a Baroque palace above the city, the programme emphasises interdisciplinary research and international exchange.",
     "eligibility": "Artists and scholars from all disciplines internationally.",
-    "url": "https://www.akademie-solitude.de"
+    "url": "https://www.akademie-solitude.de/en/fellowship/application/"
   },
   {
     "id": 68,
@@ -1171,7 +1171,7 @@
     ],
     "description": "NES is an international artist residency in the remote fishing village of Skagaströnd, Iceland. Residents live and work in a converted fish factory overlooking the Arctic Sea, with access to a supportive community and dramatic natural landscape.",
     "eligibility": "Artists in all disciplines internationally. All career stages.",
-    "url": "https://neslist.is"
+    "url": "https://neslist.is/apply/"
   },
   {
     "id": 70,
@@ -1206,7 +1206,7 @@
     ],
     "description": "Gasworks in South London offers fully funded international residencies to artists from Africa, Asia, Latin America, and the Middle East. Residents have access to studio space, professional networks, and public programming.",
     "eligibility": "Artists from Africa, Asia, Latin America, and the Middle East.",
-    "url": "https://www.gasworks.org.uk"
+    "url": "https://www.gasworks.org.uk/opportunities/"
   },
   {
     "id": 72,
@@ -1224,7 +1224,7 @@
     ],
     "description": "Capacete is an internationally recognised residency, educational, and research platform in Rio de Janeiro. It brings together artists, curators, researchers, and educators for immersive programmes engaging with Brazilian and global artistic practices.",
     "eligibility": "International artists, curators, and researchers at any career stage.",
-    "url": "https://capacete.org"
+    "url": "https://capacete.org/about/?lang=en"
   },
   {
     "id": 73,
@@ -1241,7 +1241,7 @@
     ],
     "description": "HIAP provides studio residencies to international artists in Helsinki, with spaces on the historic island of Suomenlinna (a UNESCO World Heritage Site) and in the vibrant Cable Factory arts centre.",
     "eligibility": "International visual artists and curators at any career stage.",
-    "url": "https://www.hiap.fi"
+    "url": "https://www.hiap.fi/open-call/hiap-international-artist-in-residence-programme-open-call-2026/"
   },
   {
     "id": 74,
@@ -1258,7 +1258,7 @@
     ],
     "description": "Triangle Arts Trust operates an international network of artist residency programmes, workshops, and exchanges spanning Africa, Asia, Europe, and the Americas. The network prioritises underrepresented artists and regions.",
     "eligibility": "Artists from underrepresented regions globally.",
-    "url": "https://www.trianglearts.org"
+    "url": "https://www.triangleartsnyc.org/how-to-apply"
   },
   {
     "id": 75,
@@ -1295,7 +1295,7 @@
     ],
     "description": "Rimbun Dahan is a unique arts residency set within a heritage home and tropical garden in Malaysia. Residents are fully supported in a lush natural environment, with access to the capital's arts scene just 30 minutes away.",
     "eligibility": "International artists in all disciplines. All career stages.",
-    "url": "https://www.rimbupdahan.com"
+    "url": "https://rimbundahan.org/arts/residencies/"
   },
   {
     "id": 77,
@@ -1313,7 +1313,7 @@
     ],
     "description": "MASS MoCA's Assets for Artists residency programme supports working artists in western Massachusetts. Residents receive studio space in the museum's vast industrial complex, with opportunities to exhibit and engage with the museum's international programme.",
     "eligibility": "Artists based in New England. All career stages.",
-    "url": "https://massmoca.org/assets-for-artists"
+    "url": "https://www.assetsforartists.org/applying"
   },
   {
     "id": 78,
@@ -1333,7 +1333,7 @@
     ],
     "description": "The Banff Centre in the Canadian Rockies offers world-class residency programmes across visual art, music, writing, film, and performance. Set in breathtaking mountain scenery, it attracts artists from over 60 countries.",
     "eligibility": "Artists internationally at any career stage.",
-    "url": "https://www.banffcentre.ca"
+    "url": "https://www.banffcentre.ca/program-features/residency"
   },
   {
     "id": 79,
@@ -1351,7 +1351,7 @@
     ],
     "description": "Located in a quiet rural village in Westphalia, Schöppingen offers 3-month fellowships to visual artists, writers, and composers from around the world. The programme values concentrated, undisturbed creative work.",
     "eligibility": "International visual artists, writers, and composers.",
-    "url": "https://www.kuenstlerdorf.de"
+    "url": "https://stiftung-kuenstlerdorf.de/en/apply"
   },
   {
     "id": 80,
@@ -1386,7 +1386,7 @@
     ],
     "description": "The Deutsche Börse Photography Foundation Prize is one of the most prestigious awards in photography, recognising photographers who have made the most significant contribution to the medium in Europe over the past year.",
     "eligibility": "Photographers who have exhibited significantly in Europe in the past year. Nominated.",
-    "url": "https://www.deutscheborsephotographyfoundation.org"
+    "url": "https://www.deutscheboersephotographyfoundation.org/en/support/photography-prize.php"
   },
   {
     "id": 82,
@@ -1403,7 +1403,7 @@
     ],
     "description": "Artes Mundi is an international visual art prize and exhibition held in Cardiff. The prize celebrates artists engaged with the human condition, social reality, and lived experience. Shortlisted artists exhibit at major Cardiff venues.",
     "eligibility": "International artists. Nominated by a global network of nominators.",
-    "url": "https://www.artesmundi.org"
+    "url": "https://artesmundi.org/am11-nominations/"
   },
   {
     "id": 83,
@@ -1438,7 +1438,7 @@
     ],
     "description": "The Future Generation Art Prize is a global award supporting artists under 35. Shortlisted artists present work at PinchukArtCentre in Kyiv and at an international venue, receiving significant exposure and critical attention.",
     "eligibility": "Artists under 35 internationally.",
-    "url": "https://futuregenerationartprize.org"
+    "url": "https://futuregenerationartprize.org/en/rules"
   },
   {
     "id": 85,
@@ -1455,7 +1455,7 @@
     ],
     "description": "The Frieze Artist Award commissions a new work for Frieze London each year, supporting emerging and under-recognised artists. The commission is prominently presented at the fair and receives widespread critical coverage.",
     "eligibility": "Emerging artists internationally not yet represented by major galleries.",
-    "url": "https://www.frieze.com/article/frieze-artist-award"
+    "url": "https://artistaward.frieze.com/site/login"
   },
   {
     "id": 86,
@@ -1475,7 +1475,7 @@
     ],
     "description": "The LOEWE Foundation Craft Prize celebrates excellence and innovation in craft. Finalists are selected from thousands of applications worldwide and exhibited in a major international touring show.",
     "eligibility": "Craft practitioners internationally. All career stages.",
-    "url": "https://www.loewefoundation.com/craft-prize"
+    "url": "https://www.loewefoundation.com/en/craft-prize"
   },
   {
     "id": 87,
@@ -1493,7 +1493,7 @@
     ],
     "description": "The Aga Khan Award for Architecture recognises architectural concepts that address the needs of Muslim communities worldwide. The triennial award celebrates projects that combine social impact with architectural excellence.",
     "eligibility": "Architects and projects serving Muslim communities internationally.",
-    "url": "https://www.akdn.org/architecture"
+    "url": "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/aga-khan-award-for-architecture/submission-procedures"
   },
   {
     "id": 88,
@@ -1601,7 +1601,7 @@
     ],
     "description": "Germany's most prestigious prize for emerging contemporary art. Four nominees exhibit at the Hamburger Bahnhof, with the winner selected by public vote and a jury of international curators.",
     "eligibility": "Emerging artists based or working significantly in Germany.",
-    "url": "https://www.preisdernationalgalerie.de"
+    "url": "https://preis.freunde-der-nationalgalerie.de/"
   },
   {
     "id": 94,
@@ -1652,7 +1652,7 @@
     ],
     "description": "The Hopper Prize is an open call for visual artists offering grants across all media. In addition to cash grants, selected artists are featured to an international community of curators, gallerists, and arts administrators with a following of over 160,000.",
     "eligibility": "Visual artists internationally, all career stages.",
-    "url": "https://hopperprize.org"
+    "url": "https://hopperprize.org/artist-grant-program/"
   },
   {
     "id": 97,
@@ -1708,7 +1708,7 @@
     ],
     "description": "The Spector Craft Prize supports emerging craft artists working in ceramics, textiles, woodworking, glass, metalwork, basketry, and paper arts. Recipients receive a $10,000 award, mentorship, and participation in the Spector Craft Conference at Crystal Bridges Museum.",
     "eligibility": "Emerging craft artists in the US.",
-    "url": "https://crystalbridges.org"
+    "url": "https://spectorcraftprize.org"
   },
   {
     "id": 100,
@@ -1729,7 +1729,7 @@
     ],
     "description": "The Bogliasco Foundation awards residential fellowships at its Study Centre on the Italian Riviera. Fellows in the arts and humanities spend one month working in a spectacular villa on the Ligurian Sea, with studio space and full support.",
     "eligibility": "Artists and scholars internationally, demonstrated significant achievement in their field.",
-    "url": "https://www.bfny.org"
+    "url": "https://www.bfny.org/en/apply"
   },
   {
     "id": 101,
@@ -1747,7 +1747,7 @@
     ],
     "description": "Kuonyesha Art Fund provides grants to artists based in Africa to support the creation and presentation of new work. The fund prioritises projects that advance contemporary African art practice and increase visibility of African artists internationally.",
     "eligibility": "Artists based in Africa. All disciplines.",
-    "url": "https://kuonyesha.org",
+    "url": "https://kuonyesha.civsourceafrica.com/how-to-apply",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -1768,7 +1768,7 @@
     ],
     "description": "The Zad Programme supports the mobility of artists from the Arab region residing in Europe, providing grants for creative projects, residencies, and professional development that strengthen connections between Arab cultural scenes and European institutions.",
     "eligibility": "Artists from the Arab region residing in Europe.",
-    "url": "https://ettijahat.org"
+    "url": "https://applications.ettijahat.org/applications/zad/"
   },
   {
     "id": 103,
@@ -1784,7 +1784,7 @@
     ],
     "description": "Culture Moves Europe is the EU's artist mobility scheme, implemented by Goethe-Institut. Grants support artists and cultural professionals from EU member states to undertake residencies and creative exchanges internationally.",
     "eligibility": "Artists and cultural professionals from EU member states.",
-    "url": "https://culturemoveseurope.eu"
+    "url": "https://culture.ec.europa.eu/culture-moves-europe/calls/call-for-individual-mobility-2025-2026"
   },
   {
     "id": 104,
@@ -1802,7 +1802,7 @@
     ],
     "description": "The Vilcek Foundation supports immigrants in the arts, sciences, and education in the US. Mission-driven organisations receive grants to support immigrants and highlight immigrant contributions to American culture.",
     "eligibility": "US organisations supporting immigrants in the arts. Some individual artist awards available.",
-    "url": "https://www.vilcek.org"
+    "url": "https://vilcek.org/grants/"
   },
   {
     "id": 105,
@@ -1819,7 +1819,7 @@
     ],
     "description": "The Ian Rosenfeld Fund is an annual award supporting an early- to mid-career artist in the spirit of patronage. The fund provides not only financial support but an ongoing relationship, guidance, and mentorship with Gallery Rosenfeld.",
     "eligibility": "Early- to mid-career artists based in the UK.",
-    "url": "https://www.galleryrosenfeld.com"
+    "url": "https://galleryrosenfeld.com/ian-rosenfeld-fund/"
   },
   {
     "id": 106,
@@ -1837,7 +1837,7 @@
     ],
     "description": "Franklin Furnace provides grants to early-career artists who actively generate new original work, to produce major performance art works in New York City. The fund has supported emerging performance artists for over 40 years.",
     "eligibility": "Early-career performance artists based in the New York area.",
-    "url": "https://franklinfurnace.org"
+    "url": "https://franklinfurnacearchive.submittable.com/submit/345115/2026-27-franklin-furnace-fund-for-performance-art-application"
   },
   {
     "id": 107,
@@ -1871,7 +1871,7 @@
     ],
     "description": "The Watermill Center provides artists with time, space, and freedom to develop their practice in a communal environment that encourages experimentation. Residents work alongside an international community of artists in Robert Wilson's extraordinary arts laboratory.",
     "eligibility": "Artists internationally at any career stage. All disciplines.",
-    "url": "https://www.watermillcenter.org"
+    "url": "https://watermillcenter.slideroom.com/"
   },
   {
     "id": 109,
@@ -1889,7 +1889,7 @@
     ],
     "description": "The Lagos Biennial is Nigeria's premier international contemporary art platform, taking place across sites in Africa's most populous city. The open call invites proposals from artists internationally engaging with themes of identity, ecology, and post-colonial futures.",
     "eligibility": "Open internationally. Priority to African and diaspora artists.",
-    "url": "https://lagosbiennial.com"
+    "url": "https://lagos-biennial.org/offish-open-call/"
   },
   {
     "id": 110,
@@ -1906,7 +1906,7 @@
     ],
     "description": "Fotografia Europea is one of Europe's leading photography festivals. The open call invites photographers, curators, and collectives born or resident in Europe to submit project proposals exploring this edition's theme around contemporary life and its hidden traces.",
     "eligibility": "Photographers and collectives born or resident in Europe.",
-    "url": "https://www.fotografiaeuropea.it"
+    "url": "https://www.fotografiaeuropea.it/en/fe2026-open-call/"
   },
   {
     "id": 111,
@@ -1923,7 +1923,7 @@
     ],
     "description": "The Aperture Portfolio Prize spotlights innovative bodies of photographic work. The winner is published in Aperture magazine and participates in a group exhibition at the AIPAD Photography Show in New York. A distinguished jury reviews all submissions.",
     "eligibility": "Photographers internationally. Work created within the past five years.",
-    "url": "https://aperture.org/portfolio-prize"
+    "url": "https://aperture.org/calls-for-entry/portfolio-prize/"
   },
   {
     "id": 112,
@@ -1958,7 +1958,7 @@
     ],
     "description": "The Onassis AiR is a 10-week residency and exhibition programme in Athens. Process, research, and experimentation are at the core — residents are invited to deepen their practice without the pressure of presenting a final work. The programme includes public events and critical dialogue.",
     "eligibility": "Artists internationally at any career stage. All disciplines.",
-    "url": "https://www.onassis.org/air"
+    "url": "https://www.onassis.org/initiatives/onassis-air"
   },
   {
     "id": 114,
@@ -1976,7 +1976,7 @@
     ],
     "description": "Misk Art Institute in Riyadh offers a three-month visual arts residency focusing on the transformative role of creative expression. The programme promotes meaningful exchange between the global cultural landscape and local Saudi community.",
     "eligibility": "International visual artists. All career stages.",
-    "url": "https://misk.org.sa"
+    "url": "https://miskartinstitute.org/en/residencies"
   },
   {
     "id": 115,
@@ -1995,7 +1995,7 @@
     ],
     "description": "Absa L'Atelier is one of Africa's most significant art competitions, open to artists across the continent. The winner receives a major cash prize and a prestigious European residency, launching careers onto the international stage.",
     "eligibility": "Artists from African countries. All career stages.",
-    "url": "https://www.absa.co.za/latelier"
+    "url": "https://latelier.absa.africa/the-competition/"
   },
   {
     "id": 116,
@@ -2030,7 +2030,7 @@
     ],
     "description": "One of Asia's most important photography festivals, held in the UNESCO World Heritage city of Pingyao. The open call invites photographers from around the world to exhibit their projects at this major international platform.",
     "eligibility": "Professional photographers internationally.",
-    "url": "https://www.ppf.org.cn"
+    "url": "https://pip919.com/"
   },
   {
     "id": 118,
@@ -2048,7 +2048,7 @@
     ],
     "description": "Supermarket is an international art fair for artist-run spaces and initiatives in Stockholm. The open call invites artist-run galleries and collectives from around the world to present exhibitions, with a focus on experimental, non-commercial art practice.",
     "eligibility": "Artist-run spaces and collectives internationally.",
-    "url": "https://supermarketartfair.com",
+    "url": "https://database.supermarketartfair.com/pages/application",
     "eligibilityTags": [
       "indigenous"
     ]
@@ -2068,7 +2068,7 @@
     ],
     "description": "Les Rencontres d'Arles is one of the world's most important photography festivals. The open call invites photographers and lens-based artists to propose projects for the summer festival, which attracts over 100,000 visitors to the historic city of Arles.",
     "eligibility": "Photographers and lens-based artists internationally.",
-    "url": "https://www.rencontres-arles.com"
+    "url": "https://www.rencontres-arles.com/en/proposer-un-projet/"
   },
   {
     "id": 120,
@@ -2087,7 +2087,7 @@
     ],
     "description": "The Arts/Industry Residency places artists in Kohler Co.'s industrial Pottery and Foundry for three months. Artists receive full studio access, free industrial materials, technical support, housing, round-trip transportation, and a monthly honorarium — a unique intersection of fine art and industry.",
     "eligibility": "Artists internationally working in ceramics, sculpture, or related media.",
-    "url": "https://www.jmkac.org/arts-industry"
+    "url": "https://www.jmkac.org/arts-industry/applications/"
   },
   {
     "id": 121,
@@ -2104,7 +2104,7 @@
     ],
     "description": "Gasworks in South London offers a fully funded 11-week residency specifically for emerging and mid-career Palestinian artists based anywhere in the world. The programme provides studio space, professional networks, stipend, and public programming.",
     "eligibility": "Emerging and mid-career Palestinian artists based anywhere in the world.",
-    "url": "https://www.gasworks.org.uk"
+    "url": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-palestinian-artists-2026"
   },
   {
     "id": 122,
@@ -2123,7 +2123,7 @@
     ],
     "description": "Robert Wilson's Watermill Center in the Hamptons offers residencies in a communal environment that encourages experimentation. Residents develop their practice within an extraordinary arts laboratory with a unique collection of art, artefacts, and cultural objects.",
     "eligibility": "Artists internationally at all career stages. All disciplines.",
-    "url": "https://www.watermillcenter.org"
+    "url": "https://watermillcenter.slideroom.com/"
   },
   {
     "id": 123,
@@ -2141,7 +2141,7 @@
     ],
     "description": "The Onassis AiR programme invites international artists to Athens for 10-week research residencies. The programme values process over product, encouraging artists to explore new directions in their practice in dialogue with the foundation's broader cultural programme.",
     "eligibility": "Artists internationally at any career stage. All disciplines.",
-    "url": "https://www.onassis.org/air"
+    "url": "https://www.onassis.org/initiatives/onassis-air"
   },
   {
     "id": 124,
@@ -2160,7 +2160,7 @@
     ],
     "description": "The ACC CREATORS Residency establishes a creative production platform through the convergence of art and technology. Artists, researchers, designers, and engineers are invited to engage in research, development, production, and exhibition of multidisciplinary projects.",
     "eligibility": "Artists, researchers, designers, architects, and engineers internationally.",
-    "url": "https://www.acc.go.kr"
+    "url": "https://www.acc.go.kr/en/board/board.do?PID=1001&boardID=NOTICE&action=Read&idx=2676"
   },
   {
     "id": 125,
@@ -2179,7 +2179,7 @@
     ],
     "description": "Villa Albertine's Creative Grants support American and French artists in cross-cultural projects. The programme funds exhibitions, performances, and collaborations involving living French or American artists, fostering creative exchange between France and the United States.",
     "eligibility": "American artists and organisations working with French artists, and vice versa.",
-    "url": "https://villa-albertine.org"
+    "url": "https://villa-albertine.org/va/professionals/call-for-applications-the-2026-etant-donnes-program/"
   },
   {
     "id": 126,
@@ -2214,7 +2214,7 @@
     ],
     "description": "Prairie Ronde residencies are hosted by The Mill at Vicksburg, a redevelopment of a historic paper mill on 80 acres in Michigan. Artists receive a 5–6 week residency with the goal of engaging with the site and its surroundings, with a resulting gallery exhibition.",
     "eligibility": "Artists internationally in all disciplines.",
-    "url": "https://www.themillatvicksburg.com"
+    "url": "https://prairieronde.org/about/apply/"
   },
   {
     "id": 128,
@@ -2233,7 +2233,7 @@
     ],
     "description": "The Edeiken International Arts Foundation offers a one-month residency at 7artscafe in Yokohama for professional musicians, composers, and sound artists. The programme fosters innovation in contemporary sound and composition while promoting cultural exchange in Japan.",
     "eligibility": "Professional musicians, composers, sound artists, and interdisciplinary creators internationally.",
-    "url": "https://edeiken.org"
+    "url": "https://www.7artscafe.co.jp/eiaf/"
   },
   {
     "id": 129,
@@ -2249,7 +2249,7 @@
     ],
     "description": "The Martin Roth Initiative provides temporary relocation to Germany for artists and cultural actors at risk due to political persecution, conflict, or crisis. The programme offers 6-month residencies with studio space, housing, and professional support.",
     "eligibility": "Artists and cultural actors at risk internationally.",
-    "url": "https://www.kulturstiftung-des-bundes.de/martin-roth-initiative"
+    "url": "https://www.martin-roth-initiative.de/en/application"
   },
   {
     "id": 130,
@@ -2267,7 +2267,7 @@
     ],
     "description": "The Artist Subsidy Program subsidises fabrication services for New York City-based artists facing financial barriers in realising ambitious projects. Artists receive access to professional fabrication facilities at heavily reduced rates.",
     "eligibility": "NYC-based visual artists facing financial barriers.",
-    "url": "https://powerhousearts.org"
+    "url": "https://jmkac.submittable.com/submit"
   },
   {
     "id": 131,
@@ -2321,7 +2321,7 @@
     ],
     "description": "The BP Portrait Award is one of the world's most prestigious portraiture competitions, open to artists internationally. Winning and shortlisted works are exhibited at the National Portrait Gallery in London before touring to venues across the UK.",
     "eligibility": "Artists internationally aged 18 and over.",
-    "url": "https://www.npg.org.uk/whatson/bp-portrait-award"
+    "url": "https://www.npg.org.uk/whatson/exhibitions/portrait-award"
   },
   {
     "id": 134,
@@ -2358,7 +2358,7 @@
     ],
     "description": "The Art of Progress Prize invites emerging artists under 35 to submit proposals exploring innovation, sustainability, and multi-sensory creativity. Up to five finalists exhibit at dsm-firmenich's headquarters in Switzerland, with the grand prize winner receiving €15,000 and a mentorship.",
     "eligibility": "Emerging artists internationally under 35.",
-    "url": "https://www.dsm-firmenich.com/art-of-progress"
+    "url": "https://www.dsm-firmenich.com/art-of-progress-prize/en/home.html"
   },
   {
     "id": 136,
@@ -2376,7 +2376,7 @@
     ],
     "description": "AFAC runs nine annual open-call grant programmes supporting individual artists and institutions. The Visual Arts programme funds new projects, exhibitions, publications, and research from artists across the Arab world. Applications are reviewed by international juries with deep regional knowledge.",
     "eligibility": "Artists from Arab countries internationally.",
-    "url": "https://www.arabculturefund.org"
+    "url": "https://www.arabculturefund.org/Programs/22"
   },
   {
     "id": 137,
@@ -2396,7 +2396,7 @@
     ],
     "description": "The Asian Cultural Council supports transformative cultural exchange between Asia and the United States. Fellowships fund immersive residencies and research periods for artists, scholars, and cultural professionals. Since 1963 the ACC has granted over $100 million to approximately 6,000 fellows from 26 countries.",
     "eligibility": "Artists and cultural professionals from Asia and the US. All disciplines.",
-    "url": "https://www.asianculturalcouncil.org"
+    "url": "https://www.asianculturalcouncil.org/grant-opportunities"
   },
   {
     "id": 138,
@@ -2451,7 +2451,7 @@
     ],
     "description": "The A.M. Qattan Foundation's Cultural and Arts Programme supports individuals, groups, and organisations engaged in art exhibitions and specialist workshops across Palestine and the wider Arab world. Priority is given to promising young artists with emerging practices.",
     "eligibility": "Artists from Palestine and the Arab world. Priority to young emerging artists.",
-    "url": "https://www.qattanfoundation.org"
+    "url": "https://qattanfoundation.org/en/culture-and-arts-programme"
   },
   {
     "id": 141,
@@ -2468,7 +2468,7 @@
     ],
     "description": "The Derwent Art Prize is the world's largest open prize for drawing, celebrating works made in any dry medium. Winning and shortlisted works tour major galleries across the UK. The prize champions drawing as a primary art form in its own right.",
     "eligibility": "Artists internationally aged 18 and over.",
-    "url": "https://www.derwentart.com/artprize"
+    "url": "https://www.derwentart.com/en-gb/c/inspiration/competitions/derwent-art-prize"
   },
   {
     "id": 142,
@@ -2489,7 +2489,7 @@
     ],
     "description": "The HCCC offers 3-12 month residencies providing 24/7 studio access, professional development, a monthly stipend, and an artist talk. Residents are fully embedded in Houston's thriving craft community with access to the centre's extensive workshops.",
     "eligibility": "Craft artists internationally. All career stages.",
-    "url": "https://crafthouston.org"
+    "url": "https://crafthouston.org/artist-residency/apply-to-program/"
   },
   {
     "id": 143,
@@ -2506,7 +2506,7 @@
     ],
     "description": "The Walker Youngbird Foundation supports emerging Native American artists in the early stages of their careers. The grant provides financial support for projects, professional development, and materials.",
     "eligibility": "Emerging Native American artists in the US.",
-    "url": "https://walkeryoungbird.org",
+    "url": "https://walkeryoungbird.org/emerging-native-arts",
     "eligibilityTags": [
       "indigenous"
     ]
@@ -2526,7 +2526,7 @@
     ],
     "description": "Artists & Mothers supports artists who identify as mothers at a critical inflection point in their careers. The grant provides $25,000 specifically for childcare expenses with the provider of the recipient's choice, recognising that accessible childcare is essential for sustained creative practice.",
     "eligibility": "NYC-based artists who identify as mothers, with children under 3.",
-    "url": "https://www.artistsandmothers.com",
+    "url": "https://www.artistsandmothers.org/grant",
     "eligibilityTags": [
       "women"
     ]
@@ -2563,7 +2563,7 @@
     ],
     "description": "The Joe Plaskett Foundation Award supports a Canadian MFA graduate to live, travel, and create artwork abroad for a minimum of one year, in the tradition of the grand European artistic journey. It is one of Canada's most significant painting prizes.",
     "eligibility": "Canadian nationality. Current MFA student or graduated within the past 24 months.",
-    "url": "https://joeplaskettfoundation.ca"
+    "url": "https://www.joeplaskett.com/application/"
   },
   {
     "id": 147,
@@ -2583,7 +2583,7 @@
     ],
     "description": "ReA! Art Fair invites emerging artists to exhibit at Fabbrica del Vapore in Milan. Fifty selected artists present work in a curated format positioned between a degree show and an art fair. No gallery representation required.",
     "eligibility": "Emerging visual artists of all nationalities.",
-    "url": "https://www.reaarte.it"
+    "url": "https://www.reafair.com/open-call"
   },
   {
     "id": 148,
@@ -2600,7 +2600,7 @@
     ],
     "description": "The Singapore International Photography Festival is one of the most significant photography platforms in Southeast Asia. The open call invites photographers internationally to exhibit at the festival and compete for prizes including cash awards and Nikon cameras.",
     "eligibility": "Photographers internationally. All career stages.",
-    "url": "https://www.sipf.com.sg"
+    "url": "https://sipf.sg/class/sipf-open-call/"
   },
   {
     "id": 149,
@@ -2621,7 +2621,7 @@
     ],
     "description": "The VISUREAL International Image Art Festival in Chengdu invites artists working with photography, video, animation, interactive media, AI-generated imagery, and AR/VR installations. Selected artists exhibit at a major international festival.",
     "eligibility": "Artists and art organisations worldwide. All ages and experience levels.",
-    "url": "https://www.viiaf.org"
+    "url": "https://viiaf.com/call-for-submissions/"
   },
   {
     "id": 150,
@@ -2640,7 +2640,7 @@
     ],
     "description": "The Royal Society of British Artists Annual Exhibition at Mall Galleries in London invites artists internationally to submit works in painting, sculpture, printmaking, and drawing for a major London exhibition.",
     "eligibility": "Artists internationally. Reduced fees for artists under 35.",
-    "url": "https://mallgalleries.org.uk/rba"
+    "url": "https://www.mallgalleries.org.uk/open-calls/royal-society-british-artists"
   },
   {
     "id": 151,
@@ -2658,7 +2658,7 @@
     ],
     "description": "The Other Art Fair is a curated fair for independent artists, bypassing the traditional gallery model. The Chicago edition invites booth applications and features the New Futures programme, which awards a free booth to one early-career artist.",
     "eligibility": "Independent artists internationally. New Futures for early-career artists.",
-    "url": "https://www.theotherartfair.com"
+    "url": "https://www.theotherartfair.com/artists-apply/"
   },
   {
     "id": 152,
@@ -2677,7 +2677,7 @@
     ],
     "description": "The World of WearableArt is the world's leading wearable art competition, held in Wellington, New Zealand. Categories include Avant-garde, Open, Kinetic, Metallic, and Bizarre Bra. Entries are judged on original storytelling, design innovation, and construction.",
     "eligibility": "Individual designers and teams of 2-3 internationally.",
-    "url": "https://www.worldofwearableart.com"
+    "url": "https://www.worldofwearableart.com/competition/entry-information"
   },
   {
     "id": 153,
@@ -2695,7 +2695,7 @@
     ],
     "description": "Fotofestival Lodz is one of Central Europe's most important photography festivals. The open call invites photographers internationally to propose exhibitions and projects for the festival programme across multiple venues in the city.",
     "eligibility": "Photographers internationally. All career stages.",
-    "url": "https://fotofestiwal.com"
+    "url": "https://fotofestiwal.com/2026/en/open-call/"
   },
   {
     "id": 154,
@@ -2731,7 +2731,7 @@
     ],
     "description": "Les Rencontres d'Arles is one of the world's most important photography festivals, attracting over 100,000 visitors to the historic city of Arles each summer. The open call invites photographers and lens-based artists to propose projects for the annual festival.",
     "eligibility": "Photographers and lens-based artists internationally.",
-    "url": "https://www.rencontres-arles.com"
+    "url": "https://www.rencontres-arles.com/en/proposer-un-projet/"
   },
   {
     "id": 156,
@@ -2748,7 +2748,7 @@
     ],
     "description": "The Delfina Foundation and El Espacio 23 offer fully funded 12-week residencies in London for contemporary visual artists from Latin America and the Caribbean, supporting professional development, mentorship, and engagement with the London arts ecosystem.",
     "eligibility": "Contemporary visual artists based in Latin America and the Caribbean, including US diaspora.",
-    "url": "https://www.delfinafoundation.com"
+    "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-living-in-latin-america-the-caribbean-and-related-diasporic-communities-11"
   },
   {
     "id": 157,
@@ -2767,7 +2767,7 @@
     ],
     "description": "ace in Buenos Aires offers rolling micro-residencies for artists, curators, and researchers with four annual deadlines. The programme supports starting or finishing projects with access to a printmaking workshop, installation space, and performance facilities.",
     "eligibility": "Artists, curators, and researchers internationally. All career stages.",
-    "url": "https://www.aceinternational.org"
+    "url": "https://www.proyectoace.org/en/residencies/micro-residencies/"
   },
   {
     "id": 158,
@@ -2804,7 +2804,7 @@
     ],
     "description": "Cill Rialaig is a restored pre-Famine village on the Skellig Ring in County Kerry, Ireland. One of Europe's most remote and dramatic artistic retreats, offering free residencies to professional artists in stone cottages overlooking the Atlantic Ocean.",
     "eligibility": "Professional artists, writers, and composers internationally.",
-    "url": "https://www.cillrialaig.ie"
+    "url": "https://cillrialaigartscentre.com/residencies/"
   },
   {
     "id": 160,
@@ -2823,7 +2823,7 @@
     ],
     "description": "Fundación Valparaíso offers 2-3 month residencies at a farmhouse in the Cabo de Gata natural park in southern Spain. Residents work in a multilingual, multicultural environment with studios, a darkroom, and a large library.",
     "eligibility": "Writers, visual artists, photographers, and composers internationally.",
-    "url": "https://www.fundacionvalparaiso.org"
+    "url": "https://fundacionvalparaiso.com/en/residential/"
   },
   {
     "id": 161,
@@ -2841,7 +2841,7 @@
     ],
     "description": "The Bemis Center in Omaha offers 10-week to 6-month residencies in a converted warehouse with large studios, housing, and a monthly stipend. The programme values experimental practice and provides access to a supportive regional arts community.",
     "eligibility": "Professional artists internationally. All career stages.",
-    "url": "https://www.bemiscenter.org"
+    "url": "https://www.bemiscenter.org/apply"
   },
   {
     "id": 162,
@@ -2858,7 +2858,7 @@
     ],
     "description": "The Stiftung Starke foundation in Berlin offers studio residencies to international artists in the heart of the city. Residents benefit from fully equipped studios, integration into the Berlin art scene, and professional development opportunities.",
     "eligibility": "International visual artists at any career stage.",
-    "url": "https://www.stiftung-starke.de"
+    "url": "https://stiftungstarke.de/artist-in-residence"
   },
   {
     "id": 163,
@@ -2876,7 +2876,7 @@
     ],
     "description": "Vermont Studio Center is the largest international artists and writers residency in the US, hosting 50 residents per month from around the world. Month-long residencies provide studio space, housing, meals, and daily critiques in the scenic Mad River Valley.",
     "eligibility": "Visual artists and writers internationally. All career stages. Fellowship funding available.",
-    "url": "https://www.vermontstudiocenter.org"
+    "url": "https://vermontstudiocenter.org/apply"
   },
   {
     "id": 164,
@@ -2895,7 +2895,7 @@
     ],
     "description": "The Aesthetica Art Prize is an international open call celebrating the best in contemporary art across painting, photography, sculpture, installation, and film. Winning and shortlisted works are exhibited at York Art Gallery and published in Aesthetica magazine.",
     "eligibility": "Artists internationally. All career stages.",
-    "url": "https://www.aestheticamagazine.com/art-prize"
+    "url": "https://www.aestheticamagazine.com/artprize/"
   },
   {
     "id": 165,
@@ -2914,7 +2914,7 @@
     ],
     "description": "The Waverley Art Prize is one of Australia's leading prizes for painting, drawing, and graphic works. Shortlisted artists exhibit at Waverley Library Gallery in Sydney. The prize celebrates contemporary practice across Australia.",
     "eligibility": "Australian residents.",
-    "url": "https://www.waverley.nsw.gov.au/artprize"
+    "url": "https://www.waverley.nsw.gov.au/recreation/arts_and_culture/waverley_art_prize"
   },
   {
     "id": 166,
@@ -2932,7 +2932,7 @@
     ],
     "description": "The Art of Change 21 Award recognises artists whose practice demonstrates a commitment to reducing environmental impact. The prize supports the development of sustainable art practice and connects recipients with an international network of eco-conscious artists.",
     "eligibility": "French residents who are not students.",
-    "url": "https://www.artofchange21.com"
+    "url": "https://artofchange21.com/en/actions-eng/"
   },
   {
     "id": 167,
@@ -2949,7 +2949,7 @@
     ],
     "description": "The Aperture Emerging Photographer Fund awards $10,000 to a photographer at the beginning of their career. The award includes publication in Aperture magazine and an exhibition at the AIPAD Photography Show, championing bold new voices in contemporary photography.",
     "eligibility": "Photographers internationally in the early stages of their career.",
-    "url": "https://aperture.org/emerging-photographer-fund"
+    "url": "https://aperture.org/calls-for-entry/"
   },
   {
     "id": 168,
@@ -2968,7 +2968,7 @@
     ],
     "description": "Absa L'Atelier is one of the most significant art competitions in Africa, open to artists across the continent. The winner receives a major cash prize and a prestigious European residency, launching careers onto the international stage.",
     "eligibility": "Artists from African countries. All career stages.",
-    "url": "https://www.absa.co.za/latelier"
+    "url": "https://latelier.absa.africa/the-competition/"
   },
   {
     "id": 169,
@@ -2987,7 +2987,7 @@
     ],
     "description": "The Sovereign Asian Art Prize is the largest art prize in Asia for artists aged 20-40. Finalists exhibit at a major Hong Kong venue and compete for the top prize, with all works offered for sale by private tender to raise funds for art therapy programmes.",
     "eligibility": "Artists from Asia (defined as east of Turkey, north of Australia) aged 20-40.",
-    "url": "https://sovereignartfoundation.com"
+    "url": "https://www.sovereignartfoundation.com/the-sovereign-asian-art-prize-2/"
   },
   {
     "id": 170,
@@ -3006,7 +3006,7 @@
     ],
     "description": "The Africa Prize for Engineering Innovation supports African engineers and designers developing solutions to the most pressing challenges facing sub-Saharan Africa. The prize provides funding, mentoring, and a platform to scale innovative design solutions across the continent.",
     "eligibility": "Engineers, designers, and innovators based in sub-Saharan Africa.",
-    "url": "https://www.raeng.org.uk/africa-prize"
+    "url": "https://africaprize.raeng.org.uk/about-the-prize/how-to-apply/"
   },
   {
     "id": 171,
@@ -3024,7 +3024,7 @@
     ],
     "description": "The Winsor & Newton International Art Prize is an open, international competition for works in drawing and painting. Shortlisted and winning works are exhibited at Mall Galleries in London and promoted across global channels.",
     "eligibility": "Artists internationally. All career stages.",
-    "url": "https://www.winsornewton.com/art-prize"
+    "url": "https://www.winsornewton.com/pages/international-art-prize"
   },
   {
     "id": 172,
@@ -3060,7 +3060,7 @@
     ],
     "description": "The BC Arts Council supports professional artists in British Columbia through project-based grants covering creation, production, research, and professional development. The council prioritises projects with strong artistic merit and community impact across all disciplines.",
     "eligibility": "Professional artists and arts organisations based in British Columbia.",
-    "url": "https://www.bcartscouncil.ca"
+    "url": "https://www.bcartscouncil.ca/program/"
   },
   {
     "id": 174,
@@ -3151,7 +3151,7 @@
     ],
     "description": "The Alberta Foundation for the Arts funds individual artists and arts organisations for creation, production, and professional development projects. The foundation supports work across painting, craft, visual art, performance, and digital media from Alberta-based artists.",
     "eligibility": "Professional artists and arts organisations based in Alberta, Canada.",
-    "url": "https://affta.ab.ca"
+    "url": "https://www.affta.ab.ca/funding/find-funding"
   },
   {
     "id": 179,
@@ -3169,7 +3169,7 @@
     ],
     "description": "Struts Gallery in Sackville, New Brunswick offers residencies to Canadian and international artists. Residents receive studio access, housing in a historic maritimes town, an honorarium, and opportunities to engage with the local arts community on the Tantramar Marshes.",
     "eligibility": "Professional artists nationally and internationally. All career stages.",
-    "url": "https://strutsgallery.ca"
+    "url": "https://www.strutsgallery.ca/open-calls"
   },
   {
     "id": 180,
@@ -3187,7 +3187,7 @@
     ],
     "description": "The Toronto Biennial of Art is a major international contemporary art event presenting projects across Toronto's waterfront and beyond. The open call invites proposals from Canadian and international artists for commissions and participatory projects engaging with the city and its diverse communities.",
     "eligibility": "Canadian and international artists at any career stage.",
-    "url": "https://torontobiennial.org"
+    "url": "https://torontobiennial.org/opportunities/"
   },
   {
     "id": 181,
@@ -3206,7 +3206,7 @@
     ],
     "description": "The RBC Emerging Artists Award recognises outstanding Canadian artists aged 35 and under across all artistic disciplines. The award provides unrestricted financial support to help emerging artists advance their careers and reach new audiences.",
     "eligibility": "Canadian citizens aged 35 and under.",
-    "url": "https://www.rbc.com/community-social-impact/rbc-foundation/emerging-artists.html"
+    "url": "https://www.rbc.com/community-social-impact/emerging-artists.html"
   },
   {
     "id": 182,
@@ -3225,7 +3225,7 @@
     ],
     "description": "The headline grant of 2026 for African visual artists. The winner receives €40,000, a six-week mentorship residency at dot.ateliers in Accra with Amoako Boafo, a solo exhibition, and inclusion in MAISON PERRIER's permanent collection. An exceptional combination of financial support and institutional validation for emerging African artists.",
     "eligibility": "Emerging African visual artists internationally.",
-    "url": "https://maisonperrier.com/art-prize"
+    "url": "https://www.maisonperrier.fr/art-prize"
   },
   {
     "id": 183,
@@ -3244,7 +3244,7 @@
     ],
     "description": "Art Moves Africa is a non-profit offering travel funds to artists, arts professionals, and cultural operators living and working in Africa to travel within the African continent. The fund facilitates cultural exchange, skills development, and informal network-building across Africa — prioritising intra-African mobility.",
     "eligibility": "Artists and cultural professionals living and working in Africa. Travel must be within the African continent.",
-    "url": "https://artmovesafrica.org"
+    "url": "https://artmovesafrica.org/en/guidelines/"
   },
   {
     "id": 184,
@@ -3263,7 +3263,7 @@
     ],
     "description": "The African Culture Fund finances cultural projects across Africa, subsidising artists and cultural organisations through open calls. The fund promotes pan-African cultural production and supports projects with strong potential for regional impact and distribution.",
     "eligibility": "African artists and cultural organisations.",
-    "url": "https://www.africanculturefund.net",
+    "url": "https://www.africanculturefund.net/en/",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -3283,7 +3283,7 @@
     ],
     "description": "The Thami Mnyele Foundation runs a unique three-month artists-in-residence programme in Amsterdam for African visual artists. The foundation provides fully funded residencies on a rolling basis, with no fixed deadline, placing African artists in the Dutch capital's arts ecosystem.",
     "eligibility": "Professional visual artists from any country in Africa. Rolling applications.",
-    "url": "https://thamimnyele.nl"
+    "url": "https://www.thami-mnyele.nl/apply-for-a-residency"
   },
   {
     "id": 186,
@@ -3301,7 +3301,7 @@
     ],
     "description": "The IDFA Bertha Fund supports documentary filmmakers from underrepresented regions. For African filmmakers, it operates as a gateway to European distribution networks, combining substantial funding with IDFA festival placement — the world's largest documentary festival. Selected projects gain Benelux premiere rights.",
     "eligibility": "Documentary filmmakers from Africa and other underrepresented regions.",
-    "url": "https://www.idfa.nl/en/info/bertha-fund"
+    "url": "https://professionals.idfa.nl/training-funding/funding/"
   },
   {
     "id": 187,
@@ -3320,7 +3320,7 @@
     ],
     "description": "The Rele Arts Foundation in Lagos offers residencies to emerging and mid-career Nigerian and African artists. Residents have access to studio space, professional development, and engagement with one of Africa's most dynamic contemporary art scenes, with pathways into Rele Gallery's international programme.",
     "eligibility": "Emerging and mid-career artists based in Nigeria and Africa.",
-    "url": "https://rele.art"
+    "url": "https://www.releartsfoundation.org/r2-residency-program"
   },
   {
     "id": 188,
@@ -3339,7 +3339,7 @@
     ],
     "description": "1-54 is the leading international art fair dedicated to contemporary African art and the African diaspora, with editions in London, New York, and Marrakech. The open call invites galleries and artist-run spaces to present contemporary African artists to a global collector and institutional audience.",
     "eligibility": "Galleries and artist-run spaces presenting contemporary African artists.",
-    "url": "https://www.1-54.com"
+    "url": "https://www.1-54.com/applications/"
   },
   {
     "id": 189,
@@ -3358,7 +3358,7 @@
     ],
     "description": "The Investec Cape Town Art Fair is the leading art fair in sub-Saharan Africa, attracting major collectors and institutions from across Africa and internationally. The fair includes an emerging artist prize awarded to an exceptional work exhibited, providing cash and a solo exhibition opportunity.",
     "eligibility": "Artists exhibited through represented galleries at the fair.",
-    "url": "https://www.investeccapetownartfair.com"
+    "url": "https://www.investeccapetownartfair.co.za/apply"
   },
   {
     "id": 190,
@@ -3376,7 +3376,7 @@
     ],
     "description": "The National Arts Council of South Africa is the primary domestic funding source for South African artists. Project funding supports work across all major creative disciplines, with grants scaling based on project scope. Particularly valuable for South African artists seeking local institutional backing.",
     "eligibility": "South African citizens and permanent residents.",
-    "url": "https://www.nac.org.za"
+    "url": "https://nac.praxisgms.co.za/"
   },
   {
     "id": 191,
@@ -3393,7 +3393,7 @@
     ],
     "description": "The ifa Artists' Contact Programme promotes international cooperation between German and foreign cultural practitioners. It supports working stays and working tours from developing and emerging countries to Germany, with a focus on visual arts. Artists from Africa, Asia, and Latin America are particularly encouraged to apply.",
     "eligibility": "Artists from developing and emerging countries and German nationals. Visual arts focus.",
-    "url": "https://www.ifa.de/en/art/artists-contact-programme"
+    "url": "https://www.ifa.de/en/funding/artists-contacts/"
   },
   {
     "id": 192,
@@ -3411,7 +3411,7 @@
     ],
     "description": "The ARCUS Project in Moriya City, Japan offers international residencies providing studio space, accommodation, round-trip airfare, and a generous living and research expenses budget. In 2026 the programme relocates to a site on the grounds of an operating elementary school, deepening community engagement.",
     "eligibility": "Artists residing outside Japan. All disciplines. Individual artists only.",
-    "url": "https://www.arcus-project.com/en"
+    "url": "https://www.arcus-project.com/en/open-call/"
   },
   {
     "id": 193,
@@ -3429,7 +3429,7 @@
     ],
     "description": "Kyoto Art Center offers an artist-in-residence programme to support creative activities for emerging artists seeking new artistic expression through exposure to Japanese culture. Residents receive studio space in a converted historic school building, housing arranged by the centre, round-trip airfare, and a production subsidy.",
     "eligibility": "Emerging visual artists and researchers internationally. Must communicate in English or Japanese.",
-    "url": "https://www.kac.or.jp/en"
+    "url": "https://www.kac.or.jp/en/program/3066/"
   },
   {
     "id": 194,
@@ -3446,7 +3446,7 @@
     ],
     "description": "ARKO Art Studio promotes global artistic creation and cultural exchange. International residents receive a private studio, a monthly production support grant, a monthly living allowance, and reimbursement of round-trip airfare. Four-month residencies are offered in two annual terms from March and August.",
     "eligibility": "Visual artists of all nationalities with at least 5 years of professional experience. Individual artists only.",
-    "url": "https://www.arko.or.kr"
+    "url": "https://www.arko.or.kr/artcenter/board/view/503"
   },
   {
     "id": 195,
@@ -3466,7 +3466,7 @@
     ],
     "description": "The ACC CREATORS Residency in Gwangju invites artists, creators, and interdisciplinary practitioners for a five-month residency exploring speculative communities. The programme examines technologically mediated forms of community, supporting projects in new media art, design, architecture, and engineering.",
     "eligibility": "Artists, designers, engineers, and interdisciplinary creators internationally. Must be eligible for a Korean visa.",
-    "url": "https://www.acc.go.kr"
+    "url": "https://www.acc.go.kr/en/"
   },
   {
     "id": 196,
@@ -3486,7 +3486,7 @@
     ],
     "description": "Villa Kujoyama in Kyoto is a multidisciplinary research residency hosting artists, craftspeople, and researchers for stays of four to six months. Participants have time dedicated entirely to practice and research without production requirements, and are encouraged to build connections across Japanese cultural, academic, and creative circles.",
     "eligibility": "French and international artists, craftspeople, and researchers. Applications via Institut Français.",
-    "url": "https://www.villakujoyama.jp"
+    "url": "https://villakujoyama.jp/en/programme-de-residence-3/"
   },
   {
     "id": 197,
@@ -3507,7 +3507,7 @@
     ],
     "description": "PARADISE AIR in Matsudo, Japan offers residencies to artists, performers, musicians, curators, and researchers under the motto \"One Stay, One Art.\" The programme emphasises open exchange and welcomes non-traditional formats, integrating participants into the local Matsudo community.",
     "eligibility": "International artists and creators in all disciplines. All career stages.",
-    "url": "https://www.paradiseair.info"
+    "url": "https://www.paradiseair.info/en/opencall/"
   },
   {
     "id": 198,
@@ -3528,7 +3528,7 @@
     ],
     "description": "The Asian Cultural Council supports transformative cultural exchange between Asia and the United States. Individual fellowships fund immersive residencies and research periods for artists, scholars, and cultural professionals from Asia travelling to the US and vice versa. Since 1963, the ACC has supported approximately 6,000 fellows from 26 countries.",
     "eligibility": "Artists and cultural professionals from Asia and the US. Activities must take place August 2026–December 2027.",
-    "url": "https://www.asianculturalcouncil.org"
+    "url": "https://www.asianculturalcouncil.org/grant-opportunities"
   },
   {
     "id": 199,
@@ -3547,7 +3547,7 @@
     ],
     "description": "The Momo Distribution Grant supports emerging Southeast Asian filmmakers, addressing the gap in short film distribution and raising the profile of the industry in the global market. The grant provides both cash distribution support and strategic guidance for international market access.",
     "eligibility": "Emerging filmmakers from Southeast Asia.",
-    "url": "https://www.momofilm.co"
+    "url": "https://www.momofilm.co/momo-distribution-grant"
   },
   {
     "id": 200,
@@ -3565,7 +3565,7 @@
     ],
     "description": "Art Jakarta is the leading contemporary art fair in Southeast Asia, held annually at the Jakarta Convention Centre. The open call invites galleries and artist-run spaces to present contemporary works, connecting Southeast Asian and international artists with regional and global collectors and institutions.",
     "eligibility": "Galleries and artist-run spaces presenting contemporary Southeast Asian and international art.",
-    "url": "https://artjakarta.com"
+    "url": "https://artjakarta.com/"
   },
   {
     "id": 201,
@@ -3584,7 +3584,7 @@
     ],
     "description": "The Sovereign Asian Art Prize is the largest art prize in Asia for artists aged 20–40. Finalists exhibit at a major Hong Kong venue and compete for the top prize, with all works offered for sale by private tender to raise funds for art therapy programmes across Asia.",
     "eligibility": "Artists from Asia aged 20–40. Asia is defined as east of Turkey, north of Australia.",
-    "url": "https://sovereignartfoundation.com"
+    "url": "https://www.sovereignartfoundation.com/the-sovereign-asian-art-prize-2/"
   },
   {
     "id": 202,
@@ -3601,7 +3601,7 @@
     ],
     "description": "The Delfina Foundation and El Espacio 23 offer fully funded 12-week residencies in London for artists from Latin America and the Caribbean. The 2026 call focuses on countries underrepresented in recent programmes, excluding Chile, Peru, Ecuador, Brazil, and Argentina. Artists from the Latin American diaspora in the US are eligible.",
     "eligibility": "Visual artists from Latin American and Caribbean countries excluding Chile, Peru, Ecuador, Brazil, and Argentina. Latin American diaspora in the US eligible.",
-    "url": "https://www.delfinafoundation.com"
+    "url": "https://www.delfinafoundation.com/open-calls/current/open-call-for-artists-living-in-latin-america-the-caribbean-and-related-diasporic-communities-11"
   },
   {
     "id": 203,
@@ -3621,7 +3621,7 @@
     ],
     "description": "Proyecto 'ace (arte contemporáneo en expansión) in Buenos Aires offers 4-week and micro residencies for artists, curators, and researchers. The programme supports starting new projects or finishing works-in-progress, with access to a printmaking workshop, installation space, and sound facilities in the Colegiales neighbourhood.",
     "eligibility": "Artists, curators, and researchers internationally. All career stages.",
-    "url": "https://www.proyectoace.org"
+    "url": "https://www.proyectoace.org/en/residencies/"
   },
   {
     "id": 204,
@@ -3640,7 +3640,7 @@
     ],
     "description": "Capacete in Rio de Janeiro is an internationally recognised residency, educational, and research platform bringing together artists, curators, researchers, and educators. The programme engages deeply with Brazilian and global artistic practices through intensive collaborative study and public programming.",
     "eligibility": "International artists, curators, and researchers. All career stages.",
-    "url": "https://capacete.org"
+    "url": "https://capacete.org/about/?lang=en"
   },
   {
     "id": 205,
@@ -3659,7 +3659,7 @@
     ],
     "description": "Lugar a Dudas is a leading independent arts space in Cali, Colombia offering residencies to national and international artists and researchers. The programme emphasises critical practice, publishing, and engagement with Latin American artistic and political contexts.",
     "eligibility": "International artists and researchers. All career stages.",
-    "url": "https://lugardudas.org"
+    "url": "https://lugardudas.org/residencias/"
   },
   {
     "id": 206,
@@ -3678,7 +3678,7 @@
     ],
     "description": "El Fondo Nacional de las Artes grants scholarships to Argentinian artists and writers to support creation, research, and development. The fund covers visual arts, literature, music, theatre, and film, providing project grants and international mobility support.",
     "eligibility": "Argentine nationals. Artists and writers in all disciplines.",
-    "url": "https://www.fnartes.gov.ar"
+    "url": "https://app.fnartes.gob.ar/"
   },
   {
     "id": 207,
@@ -3719,7 +3719,7 @@
     ],
     "description": "The Videobrasil Residency is tailored around prizes awarded by the biennial Contemporary Art Festival Sesc_Videobrasil. The programme sponsors connections between artists, organisations, and communities in Brazil and internationally, with a focus on artists from the Global South.",
     "eligibility": "Artists from the Global South, particularly Latin America, Africa, and Asia.",
-    "url": "https://videobrasil.org.br"
+    "url": "https://site.videobrasil.org.br/en/residencias/sobre"
   },
   {
     "id": 209,
@@ -3737,7 +3737,7 @@
     ],
     "description": "ARTBO is the leading contemporary art fair in Colombia and one of the most important in Latin America. The open call invites galleries from Colombia and internationally to present contemporary art, connecting artists with collectors, curators, and institutions from across the Americas.",
     "eligibility": "Galleries and artist-run spaces presenting contemporary Latin American and international art.",
-    "url": "https://www.artbo.co"
+    "url": "https://www.artbo.co/en"
   },
   {
     "id": 210,
@@ -3755,7 +3755,7 @@
     ],
     "description": "arteBA is the premier international contemporary art fair in the Southern Cone, held annually in Buenos Aires. The fair's Pinta section focuses on new and emerging artists, while an acquisition programme donates works to Argentine public museums.",
     "eligibility": "Galleries and artist-run spaces presenting contemporary Latin American art.",
-    "url": "https://arteba.org"
+    "url": "https://convocatoria.arteba.org/"
   },
   {
     "id": 211,
@@ -3941,7 +3941,7 @@
     ],
     "description": "The Cairo Video Festival is one of the most important platforms for video art and experimental film in the Arab world, held biennially by Medrar for Contemporary Art. The open call invites artists internationally to submit newly produced video works and experimental films for screening in theatre and exhibition spaces across Cairo.",
     "eligibility": "Artists internationally working in video art and experimental film. Newly produced works prioritised.",
-    "url": "https://medrar.org"
+    "url": "https://cvf.medrar.org/"
   },
   {
     "id": 221,
@@ -4038,7 +4038,7 @@
     ],
     "description": "The Image Centre at Toronto Metropolitan University offers research fellowships allowing artists and scholars to study its extensive photography collections firsthand. The programme supports research into photography and visual culture, with fellows gaining access to archival holdings and curatorial expertise.",
     "eligibility": "Artists and scholars researching photography and visual culture internationally.",
-    "url": "https://imagecentre.ca"
+    "url": "https://theimagecentre.ca/fellowship/"
   },
   {
     "id": 226,
@@ -4075,7 +4075,7 @@
     ],
     "description": "The Four Nations International Fund supports UK-based artists and creative organisations to engage in international collaboration and exchange. Eligible activities include residencies, co-creation, exchanges, partnership development, and networking. The fund prioritises projects exploring inclusivity, climate responsibility, and collaboration with displaced or conflict-affected cultural practitioners.",
     "eligibility": "UK-based artists and creative organisations without regular funding from major Arts Councils. Projects must involve international partners.",
-    "url": "https://www.creativescotland.com/funding/funding-programmes/targeted-funding/four-nations-international-fund"
+    "url": "https://www.creativescotland.com/funding/funding-programmes/targeted-funding/touring-fund"
   },
   {
     "id": 228,
@@ -4093,7 +4093,7 @@
     ],
     "description": "Zaratan invites international artists to apply for a process-based research residency in central Lisbon. One Annual Grant covering full residency fees and production support is awarded each year to a selected artist. Regular residency applications are also accepted year-round. The programme emphasises research-driven and process-based artistic practices.",
     "eligibility": "International artists working in process-based and research-driven practices. Rolling applications.",
-    "url": "https://zaratan.pt"
+    "url": "https://zaratan.pt/en/residencies/"
   },
   {
     "id": 229,
@@ -4132,7 +4132,7 @@
     ],
     "description": "Writers, visual artists, composers, and scholars can apply for a three-month residency at Schloss Wiepersdorf in 2027. The fellowship covers housing, basic living costs, travel expenses, a working space, and access to libraries and university facilities at this historic estate in Brandenburg.",
     "eligibility": "Writers, visual artists, composers, and scholars internationally. Applications for 2027 residencies.",
-    "url": "https://wiepersdorf.de/en"
+    "url": "https://www.schloss-wiepersdorf.de/en/individual-and-collaborative-fellowships.html"
   },
   {
     "id": 231,
@@ -4170,7 +4170,7 @@
     ],
     "description": "The BB Foundation, in cooperation with Fotosommer Stuttgart 2026, offers five photography research grants on the theme of Disorder. Each grant provides a €1,000 artist fee plus up to €1,000 reimbursement for production, framing, transport, and travel costs. Collectives may apply with the same funding amount.",
     "eligibility": "Professional photographers and artists internationally. Collectives eligible. Theme: Disorder.",
-    "url": "https://fotosommerstuttgart.de"
+    "url": "https://www.fotosommer-stuttgart.de/ausschreibung-2026"
   },
   {
     "id": 233,
@@ -4231,7 +4231,7 @@
     ],
     "description": "The Harvard Radcliffe Institute welcomes scholars and artists proposing innovative work that confronts pressing social and policy issues. Fellows receive a stipend, office or studio space, and access to Harvard's libraries, collections, and intellectual community.",
     "eligibility": "Artists and scholars internationally. Project must address significant intellectual or social questions.",
-    "url": "https://www.radcliffe.harvard.edu/fellowship-program"
+    "url": "https://www.radcliffe.harvard.edu/radcliffe-fellowship"
   },
   {
     "id": 236,
@@ -4310,7 +4310,7 @@
     ],
     "description": "A nine-month bespoke fellowship at Aviva Studios in Manchester for artists at a transitional career stage. Fellows receive a £4,000 bursary, dedicated studio space, mentoring by industry leaders, and international commission opportunities through the Manchester International Festival network.",
     "eligibility": "Primarily North England-based artists, with international applications considered.",
-    "url": "https://factoryinternational.org"
+    "url": "https://factoryinternational.org/artist-development/factory-international-fellowship/"
   },
   {
     "id": 240,
@@ -4347,7 +4347,7 @@
     ],
     "description": "The Freund Teaching Fellowship offers MFA visual artists a $45,000 teaching award, studio space at WashU's Sam Fox School, and a solo exhibition at the Saint Louis Art Museum — a rare combination of financial support, institutional access, and a major exhibition platform.",
     "eligibility": "Emerging and mid-career visual artists with an MFA. US-based.",
-    "url": "https://samfoxschool.wustl.edu"
+    "url": "https://samfoxschool.washu.edu/collaborations/freund-teaching-fellowship"
   },
   {
     "id": 242,
@@ -4368,7 +4368,7 @@
     ],
     "description": "Canada Council Professional Development Grants support Canadian artists in short-term activities that deepen their practice — training, mentorship, research travel, and international residencies. Grants up to $25,000 available to professional artists at all career stages.",
     "eligibility": "Canadian citizens or permanent residents. Professional artists at all career stages.",
-    "url": "https://canadacouncil.ca/funding/grants/professional-development-grants-for-artists"
+    "url": "https://canadacouncil.ca/funding/grants/explore-and-create/professional-development-for-artists"
   },
   {
     "id": 243,
@@ -4406,7 +4406,7 @@
     ],
     "description": "The Gottlieb Foundation provides emergency grants to painters, printmakers, and sculptors facing a catastrophic, unforeseen event — fire, flood, or serious medical emergency. Grants average $5,000 with a maximum of $15,000. Applications accepted on an ongoing rolling basis. Minimum 10-year commitment to practice required.",
     "eligibility": "Painters, printmakers, and sculptors with at least 10 years of professional practice. US-based.",
-    "url": "https://www.gottliebfoundation.org/emergency-grant-1/"
+    "url": "https://www.gottliebfoundation.org/individual-support-grant-1"
   },
   {
     "id": 245,
@@ -4467,7 +4467,7 @@
     ],
     "description": "Artists' Fellowship provides financial assistance to professional visual artists and their families experiencing unexpected emergencies — natural disasters, disability, bereavement, or extreme hardship. Open to active visual artists who can demonstrate their livelihood is funded through the sale of artworks.",
     "eligibility": "Active professional visual artists whose primary income is from the sale of work. US-based.",
-    "url": "https://www.artistsfellowship.org"
+    "url": "https://www.artistsfellowship.org/financial-aid-application"
   },
   {
     "id": 248,
@@ -4502,7 +4502,7 @@
     ],
     "description": "Rapid-response emergency travel assistance for Canadian artists who receive a sudden, unanticipated international opportunity with insufficient time to seek standard funding. Applications processed quickly at any time of year, designed to prevent artists from declining major international opportunities due to short timelines.",
     "eligibility": "Canadian citizens or permanent residents. Professional artists.",
-    "url": "https://canadacouncil.ca/funding/grants/emergency-travel-assistance"
+    "url": "https://canadacouncil.ca/funding/grants/arts-across-canada/travel"
   },
   {
     "id": 250,
@@ -4607,7 +4607,7 @@
     ],
     "description": "The Pew Fellowship is one of the most prestigious and generous unrestricted artist awards in the US, providing $100,000 to Philadelphia-area artists to pursue their artistic vision without restrictions. Fellows are nominated — artists cannot apply directly — but are selected from a wide pool of nominations across all disciplines and career stages.",
     "eligibility": "Artists residing in the five-county Philadelphia region (Bucks, Chester, Delaware, Montgomery, Philadelphia). Nomination-based.",
-    "url": "https://www.pewcenterarts.org/program/pew-fellowships",
+    "url": "https://www.pewcenterarts.org/apply",
     "eligibilityTags": [
       "women"
     ]
@@ -4629,7 +4629,7 @@
     ],
     "description": "The Roman J. Witt Residency invites visionary artists and designers to the University of Michigan for the 2026–27 programme. Fellows receive a $20,000 honorarium, $5,000 in materials support, housing, and studio access while engaging directly with students and faculty at the Stamps School of Art and Design and the Institute for the Humanities.",
     "eligibility": "Visionary artists and designers internationally. All career stages.",
-    "url": "https://stamps.umich.edu"
+    "url": "https://stamps.umich.edu/about/visiting/witt-residency-application"
   },
   {
     "id": 256,
@@ -4650,7 +4650,7 @@
     ],
     "description": "The Grant Wood Fellowship is a prestigious year-long opportunity at the University of Iowa for bold and innovative artists in painting and drawing, printmaking, and interdisciplinary performance. Three fellowships are awarded annually through a competitive national selection process, offering a teaching appointment, stipend, and access to world-class facilities.",
     "eligibility": "Emerging and mid-career artists in painting, drawing, printmaking, and performance. US-based.",
-    "url": "https://uiowa.edu"
+    "url": "https://grantwood.uiowa.edu/fellowship"
   },
   {
     "id": 257,
@@ -4670,7 +4670,7 @@
     ],
     "description": "ArtsLink supports artists, curators, and arts leaders globally through a three-phase programme: a six-month online research and networking period with US and international partners, a six-week in-person residency in the US, and a follow-up project in the home country. All living expenses, international travel, visa support, health insurance, and a $2,500 stipend are covered.",
     "eligibility": "International artists, curators, and arts leaders committed to social justice themes. Not US citizens or permanent residents.",
-    "url": "https://www.cecartslink.org"
+    "url": "https://www.cecartslink.org/application-guidelines-artslink-international-fellowships/"
   },
   {
     "id": 258,
@@ -4703,7 +4703,7 @@
     ],
     "description": "The Musicians Foundation provides one-time financial assistance grants to professional musicians across all genres who are in specific times of need to help pay essential bills — rent, utilities, medical, and instrument repair. Applications are reviewed on a rolling basis with no set deadline.",
     "eligibility": "Professional musicians who have been active in their field and are facing acute financial hardship. US-based.",
-    "url": "https://musiciansfoundation.org"
+    "url": "https://www.musiciansfoundation.org/apply"
   },
   {
     "id": 260,
@@ -4739,7 +4739,7 @@
     ],
     "description": "The Authors League Fund helps professional writers and dramatists in financial need due to medical or health-related problems, temporary loss of income, or other misfortune. The fund provides open-ended, interest-free, no-strings-attached loans — not grants or project subsidies. Applications are reviewed on a rolling basis.",
     "eligibility": "Professional writers and dramatists. Applications based on financial need, not project merit.",
-    "url": "https://authorsleaguefund.org"
+    "url": "https://authorsleaguefund.org/apply/"
   },
   {
     "id": 262,
@@ -4760,7 +4760,7 @@
     ],
     "description": "Established through a legacy gift to the Community Foundation Serving Boulder County, this fund provides grants to artists facing unforeseen hardship, with priority given to artists of colour, artists with disabilities, Indigenous artists, and artists aged 18–30. All art forms supported including music, theatre, dance, film, literature, and visual art.",
     "eligibility": "Artists who live or work in Boulder County, Colorado. Priority groups: artists of colour, disabled artists, Indigenous artists, emerging artists aged 18–30.",
-    "url": "https://commfound.org"
+    "url": "https://www.bouldercountyarts.org/thomas_fund_grant_guidelines"
   },
   {
     "id": 263,
@@ -4825,7 +4825,7 @@
     ],
     "description": "The MacColl Johnson Fellowship awards three $30,000 grants annually to emerging and mid-career visual artists based in Rhode Island. Three finalists also receive a $3,000 stipend and a 2–4 week residency. The programme emphasises artists with a recent body of work created within the past five years and is designed to advance artistic careers without favouring already-established artists.",
     "eligibility": "Emerging and mid-career visual artists residing in Rhode Island. Emphasis on recent work from the past five years.",
-    "url": "https://rifoundation.org"
+    "url": "https://artistcommunities.org/maccoll-johnson-fellowships-apply"
   },
   {
     "id": 266,
@@ -4845,7 +4845,7 @@
     ],
     "description": "An international open competition for artists producing innovative work in any medium including printmaking, digital media, installation, social practice, photography, and book arts. Eight artists are awarded a $3,000 stipend, unlimited access to the Kala Art Institute facilities for up to six months, one Kala class, and a culminating exhibition in the Kala Gallery in Berkeley.",
     "eligibility": "Open internationally to artists working in any medium. All career stages.",
-    "url": "https://www.kala.org/programs/fellowship/"
+    "url": "https://www.kala.org/residencies/fellowship-program/"
   },
   {
     "id": 267,
@@ -4867,7 +4867,7 @@
     ],
     "description": "Artist Trust Fellowships recognise artistic achievement and dedication in Washington State. Approximately 16 fellowships of $7,500 are awarded each year across disciplines on a two-year rotation — Visual Arts, Performing, Emerging Fields, and Traditional & Folk Arts are awarded in odd-numbered years. No project requirement; funds can be used for living expenses or any creative purpose.",
     "eligibility": "Artists residing in Washington State. Each discipline category rotates every two years. Merit-based.",
-    "url": "https://artisttrust.org/awards/fellowship/"
+    "url": "https://artisttrust.org/grants/fellowship/"
   },
   {
     "id": 268,
@@ -4886,7 +4886,7 @@
     ],
     "description": "The Queens Museum Fellowship supports emerging visual artists who live in the five boroughs of New York City. Fellows receive $20,000, individual studio space at the Queens Museum, professional development consultations, and close mentorship from Queens Museum staff working toward an artist project. The fellowship is structured around deep engagement with the museum and its surrounding Queens community.",
     "eligibility": "Emerging visual artists living in the five boroughs of New York City.",
-    "url": "https://queensmuseum.org",
+    "url": "https://queensmuseum.org/program-categories/artist-fellowships/",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -4909,7 +4909,7 @@
     ],
     "description": "Artists' Fellowship provides financial assistance to visual artists and their families experiencing an unexpected emergency — natural disaster, disability, bereavement, or extreme hardship. Open to active visual artists who can demonstrate their livelihood is funded through the sale of artworks, including painting, sculpture, drawing, ceramics, installation, photography, and mixed-media. Applications reviewed on a rolling basis.",
     "eligibility": "Active visual artists whose livelihood is funded through the sale of artworks. US-based. Must demonstrate genuine financial emergency.",
-    "url": "https://www.artistsfellowship.org"
+    "url": "https://www.artistsfellowship.org/financial-aid-application"
   },
   {
     "id": 270,
@@ -4970,7 +4970,7 @@
     ],
     "description": "Founded in 1975, Money for Women is the oldest ongoing feminist granting agency in the US, providing small grants to feminist women and gender-nonconforming artists in the visual arts, writing, film, and performance who are in financial need. Applications are reviewed on a rolling basis. Priority is given to those whose work addresses women's lives and feminist concerns.",
     "eligibility": "Feminist women and gender-nonconforming individual artists in the US. Work must address women's lives and/or feminist concerns. Financial need required.",
-    "url": "https://demingfund.org",
+    "url": "https://www.demingfund.org/apply",
     "eligibilityTags": [
       "women"
     ]
@@ -5047,7 +5047,7 @@
     ],
     "description": "NXTHVN is a year-long immersive programme supporting emerging artists in developing their craft, expanding creative networks, and engaging with a dynamic multidisciplinary community. Fellows receive a stipend, dedicated studio space, mentorship from established artists, and access to NXTHVN's professional development programming and exhibition opportunities.",
     "eligibility": "Emerging visual artists. US-based. Not enrolled in a degree programme during the fellowship.",
-    "url": "https://nxthvn.com/fellowship"
+    "url": "https://www.nxthvn.com/apply/"
   },
   {
     "id": 277,
@@ -5123,7 +5123,7 @@
     ],
     "description": "The Luminarts Fellowship Programme offers unrestricted monetary awards in visual arts, creative writing, classical music, and jazz to exceptional emerging artists in the Chicago area. Visual arts fellows receive $10,000–$15,000 with no strings attached, plus engagement with the broader Luminarts community of past fellows and supporters.",
     "eligibility": "Emerging artists in the Chicago area. Visual arts, creative writing, and music categories.",
-    "url": "https://luminarts.org/fellowships/"
+    "url": "https://luminarts.submittable.com/submit"
   },
   {
     "id": 281,
@@ -5142,7 +5142,7 @@
     ],
     "description": "The Henry Moore Institute, a world-leading centre for the study of sculpture, offers research grants enabling artists and scholars to develop work in sculpture and three-dimensional art. Grantees gain access to the Institute's library, archive, and collection in Leeds, and the programme supports both practice-based and historical research projects.",
     "eligibility": "Artists and researchers internationally working on projects related to sculpture and three-dimensional art.",
-    "url": "https://www.henry-moore.org/grants-and-residencies"
+    "url": "https://henry-moore.org/what-we-do/grants-fellowships/"
   },
   {
     "id": 282,
@@ -5199,7 +5199,7 @@
     ],
     "description": "RAiR offers six studio-based visual artists a full year to concentrate on their work in a supportive collegial environment with a monthly stipend, no strings attached. Residents mount a solo exhibition at the Roswell Museum and have an artwork purchased for the permanent collection of the Anderson Museum of Contemporary Art. One of the most generous year-long research residency programmes in the US.",
     "eligibility": "Professional studio-based visual artists internationally.",
-    "url": "https://www.rair.org"
+    "url": "https://www.rair.org/application-info"
   },
   {
     "id": 285,
@@ -5236,7 +5236,7 @@
     ],
     "description": "Innovate Grant awards two $1,800 unrestricted grants each quarter — one to a visual artist and one to a photographer. In addition, twelve applicants receive honourable mentions and are featured on the website. Applications are simple: submit work samples and a brief statement. The programme runs four rounds per year.",
     "eligibility": "Visual artists and photographers internationally, 18+. All career stages.",
-    "url": "https://innovategrant.com"
+    "url": "https://innovateartistgrants.org/apply"
   },
   {
     "id": 287,
@@ -5294,7 +5294,7 @@
     ],
     "description": "Artadia provides unrestricted financial support and long-term advocacy to visual artists in select US cities. While primarily a grant programme, Artadia also maintains emergency relief pathways for awarded artists facing sudden crises. The programme operates city-by-city cycles with deadlines throughout the year.",
     "eligibility": "Visual artists in Artadia partner cities (Houston, Atlanta, Chicago, New York, San Francisco, Los Angeles, Boston).",
-    "url": "https://www.artadia.org"
+    "url": "https://artadia.submittable.com/submit"
   },
   {
     "id": 290,
@@ -5434,7 +5434,7 @@
     ],
     "description": "Interlude is a fully funded residency dedicated to serving artists and their families, giving parent-artists the chance to achieve artistic excellence and to connect with the rich history and culture of the Hudson Valley. The programme specifically addresses the barrier of childcare, making residency accessible to artists with children.",
     "eligibility": "Artists who are parents/caregivers. All disciplines. US and international.",
-    "url": "https://www.interluderesidency.org"
+    "url": "https://www.interluderesidency.org/apply/"
   },
   {
     "id": 297,
@@ -5528,7 +5528,7 @@
     ],
     "description": "Creators' Fund+ is a 12-month programme supporting Black and Global Majority creatives and cultural professionals based in Scotland to build sustainable careers on their own terms. Awardees receive a support package worth £2,980 including direct funding and 20 hours of paid mentoring from industry professionals.",
     "eligibility": "Black and Global Majority creatives and cultural professionals based in Scotland.",
-    "url": "https://www.weareherescotland.co.uk",
+    "url": "https://www.weareherescotland.com/creator-application",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -5551,7 +5551,7 @@
     ],
     "description": "Prairie Ronde at The Mill at Vicksburg offers artists a five-to-six-week residency on 80 acres of historic former paper mill property. Artists receive a $2,000 completion stipend, $500 travel grant, private housing, and a solo gallery show. The summer residency runs June through September 14. A place for serious work away from the demands of everyday life.",
     "eligibility": "Artists internationally in all disciplines. $25 application fee.",
-    "url": "https://www.themillatvicksburg.com",
+    "url": "https://prairieronde.org/about/apply/",
     "eligibilityTags": [
       "bipoc"
     ],
@@ -5635,7 +5635,7 @@
     ],
     "description": "HCCC's Artist Residency Programme offers an 18-month studio residency for artists working in craft media. Residents receive a $1,000 monthly stipend, private studio space, access to HCCC's tools and resources, and professional development support including exhibition opportunities and critique. One of the most generously funded craft-focused residencies in the US.",
     "eligibility": "Artists working in craft media at early to mid career. US and international.",
-    "url": "https://crafthouston.org/residency"
+    "url": "https://crafthouston.org/artist-residency/apply-to-program/"
   },
   {
     "id": 307,
@@ -5694,7 +5694,7 @@
     ],
     "description": "A three-to-six-month residency for artists working in Kohler Co.'s Pottery and Foundry with full studio access, free industrial materials, use of industrial equipment, technical support, housing, round-trip transportation, and a monthly honorarium. One of the most uniquely resourced residencies in the US — artists gain access to industrial processes unavailable elsewhere.",
     "eligibility": "Artists internationally working in ceramics, sculpture, and related disciplines. No application fee.",
-    "url": "https://www.jmkac.org/artsindustry"
+    "url": "https://www.jmkac.org/arts-industry/applications/"
   },
   {
     "id": 311,
@@ -5715,7 +5715,7 @@
     ],
     "description": "The Harpo Foundation Emerging Artist Grant provides $10,000 unrestricted awards to under-recognised US visual artists whose work demonstrates outstanding creative potential and who have not yet received significant recognition. The foundation prioritises support for artists who fall outside the mainstream art world and those who have limited access to professional development opportunities.",
     "eligibility": "US-based visual artists who are under-recognised and have not received significant recognition.",
-    "url": "https://www.harpofoundation.org/apply/emerging-artist-grant/"
+    "url": "https://harpofoundation.submittable.com/submit"
   },
   {
     "id": 312,
@@ -5755,7 +5755,7 @@
     ],
     "description": "Weir Farm National Historic Site — the only national park dedicated to American painting — offers residencies to visual artists at the historic Connecticut farm where J. Alden Weir and generations of artists worked. Residents receive housing, a studio, and a small stipend. Artists engage with the landscape that has inspired painters for over 150 years and present work to the public.",
     "eligibility": "Visual artists internationally, especially those working in painting, drawing, printmaking, and photography.",
-    "url": "https://www.nps.gov/wefa/getinvolved/artistinresidence.htm"
+    "url": "https://www.nps.gov/wefa/getinvolved/artist-in-residence-program.htm"
   },
   {
     "id": 314,
@@ -5837,7 +5837,7 @@
     ],
     "description": "The Spector Craft Prize celebrates outstanding emerging artists working across craft disciplines including ceramics, textiles, jewellery, glass, and sculpture. Winners receive a cash prize, a feature in Spector publication, and inclusion in an international group exhibition. The prize is dedicated to championing craft practices at a time of renewed international interest in making.",
     "eligibility": "Emerging artists internationally working in craft disciplines.",
-    "url": "https://spectorcraftprize.org"
+    "url": "https://spectorcraftprize.org/registration"
   },
   {
     "id": 318,
@@ -5856,7 +5856,7 @@
     ],
     "description": "Assets for Artists is a MASS MoCA residency programme offering a $5,000 grant, studio space, and professional development support to artists at key inflection points in their careers. The programme provides tools for financial sustainability alongside creative time, recognising that economic precarity is one of the greatest obstacles to artistic development.",
     "eligibility": "Visual artists based in Massachusetts, Connecticut, New York, or Vermont at mid-career.",
-    "url": "https://assetsforartists.org"
+    "url": "https://www.assetsforartists.org/applying"
   },
   {
     "id": 320,
@@ -5916,7 +5916,7 @@
     ],
     "description": "The Leeway Transformation Award provides $15,000 unrestricted annual awards to women, trans*, and gender nonconforming artists and cultural producers living in greater Philadelphia who create art for social change and have demonstrated long-term commitment to this work for at least five years. Leeway specifically supports artists who are often marginalised because of who they are — including people of colour, immigrants, queer and trans folks, and poor and working-class people.",
     "eligibility": "Women, trans*, and gender nonconforming artists living in Bucks, Camden, Chester, Delaware, Montgomery, or Philadelphia Counties. Must have created art for social change for at least 5 years.",
-    "url": "https://www.leeway.org/grants/lta",
+    "url": "https://www.leeway.org/lta",
     "eligibilityTags": [
       "women"
     ]
@@ -5939,7 +5939,7 @@
     ],
     "description": "The Leeway Art and Change Grant provides grants of up to $2,500 to fund art for social change projects by women, trans*, and gender nonconforming artists living in Greater Philadelphia. Applications are accepted on a rolling basis throughout the year. The grant can support project materials, documentation, and other direct project costs.",
     "eligibility": "Women, trans*, and gender nonconforming artists living in Bucks, Camden, Chester, Delaware, Montgomery, or Philadelphia Counties.",
-    "url": "https://www.leeway.org/grants/acg",
+    "url": "https://www.leeway.org/acg",
     "eligibilityTags": [
       "women"
     ]
@@ -6034,7 +6034,7 @@
     ],
     "description": "PFund Foundation awards grants to lesbian, gay, bisexual, transgender, queer, intersex, and allied individuals for their commitment to creative leadership within their communities in the Midwest. Individual grants range from $1,000 to $10,000 and support artistic practice, community-engaged projects, and professional development. PFund is one of the few foundations specifically dedicated to LGBTQI+ artists in the Midwest.",
     "eligibility": "LGBTQI+ and allied artists and cultural producers based in the Midwest United States.",
-    "url": "https://pfundfoundation.org/grants/",
+    "url": "https://www.pfundfoundation.org/pfund-community-grants",
     "eligibilityTags": [
       "lgbtq"
     ]
@@ -6080,7 +6080,7 @@
     ],
     "description": "Ma's House is a residency open to US-based creatives of colour working in any genre of visual art, creative writing, and performance arts. Artists are encouraged to pursue work inspired by Shinnecock history, the local landscape, community-based work, and critical engagement in diversity, race, and identity. The residency is located in Southampton, New York, adjacent to the Shinnecock Nation. Applications open December–January annually.",
     "eligibility": "BIPOC artists 21+ years based in the US. All disciplines including visual arts, media, performance, film, literature, interdisciplinary arts, and music. Applications open December–January.",
-    "url": "https://www.mashouseresidency.org",
+    "url": "https://www.mashouse.studio/residency/",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -6102,7 +6102,7 @@
     ],
     "description": "The McKnight Foundation funds two fellowships through Minnesota Center for Book Arts for beyond-emerging artists living and working in Minnesota who show sustained experience in the book arts. Each recipient receives an unrestricted $25,000 award, a $1,000 travel stipend to attend a conference, a $1,000 educational stipend, and two years of MCBA studio access. The broader McKnight Visual Artist Fellowship programme prioritises underrepresented artists in Minnesota.",
     "eligibility": "Beyond-emerging artists living and working in Minnesota with sustained experience in book arts or visual art.",
-    "url": "https://www.mnbookarts.org/mcknightfellowship",
+    "url": "https://mnbookarts.org/mcknight-fellowships",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -6125,7 +6125,7 @@
     ],
     "description": "The Center for Art and Advocacy (formerly Right to Return) believes in the uncultivated talent of individuals with lived experience of incarceration. The annual fellowship awards $10,000 in unrestricted funds plus $10,000 in project development funds to formerly incarcerated artists. Fellows are invited to an annual retreat to network with previous fellows, advocates, industry leaders, and funders. One of the very few fellowships specifically for formerly incarcerated artists.",
     "eligibility": "Formerly incarcerated artists in the US. All disciplines.",
-    "url": "https://centerforartandadvocacy.org",
+    "url": "https://centerforartandadvocacy.submittable.com/submit/333119/the-center-for-art-and-advocacy-fellowship-2026",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -6148,7 +6148,7 @@
     ],
     "description": "Texas' first artist residency created specifically for artist mothers, Ramona offers fully funded two-to-four-week stays in Houston with dedicated creative time, professional networking, and community engagement through artist talks and pop-up exhibitions. The programme specifically emphasises support for BIPOC women and artist parents who face compounded barriers to creative practice.",
     "eligibility": "Artist mothers, with specific emphasis on BIPOC women artists. Rolling deadline.",
-    "url": "https://www.ramonaresidency.org",
+    "url": "https://www.ramonaresidency.com/apply",
     "eligibilityTags": [
       "women",
       "bipoc"
@@ -6171,7 +6171,7 @@
     ],
     "description": "Frameline provides completion grants of up to $5,000 to emerging and established filmmakers for the completion of films that represent and reflect LGBTQ+ life. Applications are accepted on a rolling basis. Frameline has supported LGBTQ+ film for over 40 years through its San Francisco International LGBTQ+ Film Festival and funding programmes.",
     "eligibility": "Filmmakers internationally whose work represents and reflects LGBTQ+ life. Rolling deadline.",
-    "url": "https://www.frameline.org/filmmaker-support/completion-fund",
+    "url": "https://www.frameline.org/discover/completion-fund",
     "eligibilityTags": [
       "lgbtq"
     ]
@@ -6195,7 +6195,7 @@
     ],
     "description": "United States Artists awards $50,000 unrestricted fellowships to artists and designers across all disciplines. USA prioritises historically underrepresented artists — including artists of colour, those from low-income backgrounds, and artists in under-resourced communities. Fellows are selected by peer panels via a nomination process; there is no direct application.",
     "eligibility": "US artists across all disciplines, selected by nomination only. Not an open application.",
-    "url": "https://www.unitedstatesartists.org",
+    "url": "https://www.unitedstatesartists.org/programs/usa-fellowship",
     "eligibilityTags": [
       "bipoc"
     ]
@@ -6312,7 +6312,7 @@
     ],
     "description": "Since 1996 Visual AIDS has awarded grants to artists living with HIV who need financial assistance obtaining materials to create their artwork. Expanded in 2023 to provide unrestricted grants recognising that artists need more than art materials to make their work. Visual AIDS uses art to fight AIDS through fundraising, education, and creating exhibitions of work by artists with HIV.",
     "eligibility": "Visual artists living with HIV in the US who need financial assistance. Rolling deadline.",
-    "url": "https://www.visualaids.org/programs/artist-support-grant",
+    "url": "https://visualaids.org/projects/artists-support-grants",
     "eligibilityTags": [
       "lgbtq",
       "bipoc"
@@ -6336,7 +6336,7 @@
     ],
     "description": "Residency Unlimited's NYCBAR programme is dedicated to supporting NYC-based artists traditionally underrepresented in the arts. The 2026 programme runs March–May and culminates in the group exhibition \"Working Conditions\" at Westbeth Gallery. RU encourages applications from artists who self-identify as part of underserved communities including BIPOC and LGBTQ+ individuals. Artists receive weekly studio visits with guest curators, monthly salons, and access to RU's international artist community.",
     "eligibility": "NYC-based artists (all five boroughs) who self-identify as part of underserved communities including BIPOC and LGBTQ+ individuals. All mediums.",
-    "url": "https://residencyunlimited.org",
+    "url": "https://residencyunlimited.org/open-calls/",
     "eligibilityTags": [
       "bipoc",
       "lgbtq"
@@ -6450,7 +6450,7 @@
     ],
     "description": "Hypatia-in-the-Woods offers solo residencies of one to three weeks for women artists and writers in a well-appointed private cottage in deep woods above Hammersley Inlet on Puget Sound, Washington. The programme offers rolling applications and has supported women artists since its founding. One of the few residencies exclusively dedicated to women across all creative disciplines.",
     "eligibility": "Women artists and writers. Solo residencies only. Rolling applications.",
-    "url": "https://www.hypatia-in-the-woods.org",
+    "url": "https://hypatiainthewoods.org/apply/",
     "eligibilityTags": [
       "women"
     ]
@@ -6538,7 +6538,7 @@
     ],
     "description": "The COAL Prize rewards an artist whose practice engages with ecological issues. The 2026 theme invites artists to defend the night as a common good and ecological issue for the regeneration of life. The awarded artist receives €12,000 and a creative residency at Domaine de Belval, property of the François Sommer Foundation, working alongside scientific and educational teams.",
     "eligibility": "Artists internationally working with ecology-focused practice.",
-    "url": "https://projetcoal.org/en/prize/coal-prize/appel-a-projets-2026/"
+    "url": "https://projetcoal.org/en/prize/coal-prize/call-for-projects-2026/"
   },
   {
     "id": 350,
@@ -6557,7 +6557,7 @@
     ],
     "description": "Schloss Wiepersdorf offers three-month fellowships in an 18th-century manor in the Brandenburg countryside. Writers, visual artists, composers, and scholars receive a monthly stipend of €1,200, a materials grant of €480, accommodation, and meals. Fellowship periods: March–May, June–August, and September–November.",
     "eligibility": "Artists, writers, composers, and researchers internationally who have completed a degree or have a distinguished professional body of work.",
-    "url": "https://wiepersdorf.de/en"
+    "url": "https://www.schloss-wiepersdorf.de/en/individual-and-collaborative-fellowships.html"
   },
   {
     "id": 351,
@@ -6597,7 +6597,7 @@
     ],
     "description": "Künstlerhaus Bethanien offers year-long studio residencies in Berlin for international artists. Residents receive a studio in the historic building in Kreuzberg, a stipend, and participation in Berlin's vibrant contemporary art scene. Studios are awarded through international selection.",
     "eligibility": "Professional artists internationally at all career stages.",
-    "url": "https://www.bethanien.de/en"
+    "url": "https://bethanien.de/en/application/"
   },
   {
     "id": 353,
@@ -6695,7 +6695,7 @@
     ],
     "description": "Civitella Ranieri offers five-week fellowships at a 15th-century castle in Umbria to visual artists, fiction writers, and music composers. Fellows receive fully funded accommodation, meals, a private studio, and travel support. The programme is intentionally small — 15 fellows per session — to foster close community. Widely regarded as one of the most beautiful residency settings in the world.",
     "eligibility": "Established visual artists, fiction writers, and music composers internationally.",
-    "url": "https://civitella.org"
+    "url": "https://civitella.org/fellows/"
   },
   {
     "id": 358,
@@ -6733,7 +6733,7 @@
     ],
     "description": "Arts Council Ireland funds Irish artists to undertake international residencies abroad and welcomes international artists to Ireland. Grants support participation in residency programmes, research travel, and international professional development. Awards are competitive and reviewed twice annually.",
     "eligibility": "Professional artists based in Ireland. International artists may apply through partner programmes.",
-    "url": "https://www.artscouncil.ie/Funds/Awards/"
+    "url": "https://artscouncil.ie/funding/funding-opportunities/"
   },
   {
     "id": 360,
@@ -6753,7 +6753,7 @@
     ],
     "description": "The COAL Prize is France's leading award at the intersection of art and ecology. Awarded annually since 2010, it recognises an artist whose practice engages with ecological transformation. The 2026 edition focuses on darkness, night, and light pollution as ecological commons. Open to artists internationally.",
     "eligibility": "Artists internationally working with ecological themes.",
-    "url": "https://projetcoal.org/en/prize/coal-prize/appel-a-projets-2026/"
+    "url": "https://projetcoal.org/en/prize/coal-prize/call-for-projects-2026/"
   },
   {
     "id": 361,
@@ -6770,7 +6770,7 @@
     ],
     "description": "Stiftung Starke offers three-month studio residencies in Berlin-Dahlem to international artists. Residents receive a free studio and a €1,500 stipend. The foundation is committed to supporting artists who need uninterrupted time for serious work and prioritises artists who would not otherwise have access to Berlin studio space.",
     "eligibility": "Visual artists internationally at all career stages.",
-    "url": "https://www.stiftung-starke.de"
+    "url": "https://stiftungstarke.de/artist-in-residence"
   },
   {
     "id": 362,
@@ -6789,7 +6789,7 @@
     ],
     "description": "Iaspis is the Swedish Arts Grants Committee's international programme for visual art, craft, design, and curating. It offers studio residencies in Stockholm for international artists and sends Swedish artists abroad. International artists receive a studio in central Stockholm and a monthly grant. One of Scandinavia's most prestigious artist residency programmes.",
     "eligibility": "International artists invited through partnerships. Swedish artists apply directly for abroad residencies.",
-    "url": "https://iaspis.se/en/residencies"
+    "url": "https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/iaspis-residency-programmes/"
   },
   {
     "id": 363,
@@ -6827,7 +6827,7 @@
     ],
     "description": "The Prix Pictet is the world's leading award in photography and sustainability. A CHF 100,000 prize is awarded to a photographer whose work most powerfully communicates issues of human sustainability. The 2026 theme is Space. Shortlisted photographers are exhibited at a travelling exhibition shown globally and published in an annual book.",
     "eligibility": "Photographers internationally nominated by a global network of nominators.",
-    "url": "https://www.prixpictet.com"
+    "url": "https://prix.pictet.com/"
   },
   {
     "id": 365,
@@ -6845,7 +6845,7 @@
     ],
     "description": "One of the most prestigious prizes in contemporary photography, the Deutsche Börse Photography Foundation Prize is awarded annually to a photographer who has made a significant contribution to photography in Europe. The prize is £30,000. Shortlisted photographers receive a solo exhibition at The Photographers' Gallery in London and the Schirn Kunsthalle in Frankfurt.",
     "eligibility": "Photographers who have made a significant contribution to photography in Europe in the past year. Nominated by a global committee.",
-    "url": "https://www.deutscheboersephotographyfoundation.org/en/prize"
+    "url": "https://www.deutscheboersephotographyfoundation.org/en/support/photography-prize.php"
   },
   {
     "id": 366,
@@ -6882,7 +6882,7 @@
     ],
     "description": "Tokyo Arts and Space (TOKAS) offers international residency programmes in Tokyo supporting artistic research and exchange. Selected artists receive a studio, monthly stipend, and curatorial support. The programme includes an open studio and exhibition at the end of the residency. TOKAS runs both international and domestic programmes.",
     "eligibility": "Professional artists internationally. Applications via open call or through partner cultural organisations.",
-    "url": "https://www.tokyoartsandspace.jp/en/exchange"
+    "url": "https://www.tokyoartsandspace.jp/en/application/index.html"
   },
   {
     "id": 368,
@@ -6940,7 +6940,7 @@
     ],
     "description": "Rimbun Dahan offers residencies to professional artists and writers in a historic private estate near Kuala Lumpur surrounded by tropical rainforest. Residents receive free accommodation, a private studio, and meals. The programme supports artists across all disciplines, with a particular interest in exchange between Malaysian and international artists.",
     "eligibility": "Professional artists and writers internationally. Rolling applications.",
-    "url": "https://www.rimbundahan.org"
+    "url": "https://rimbundahan.org/arts/residencies/"
   },
   {
     "id": 371,
@@ -6960,7 +6960,7 @@
     ],
     "description": "PARADISE AIR is an internationally renowned artist residency housed in a former love hotel in Matsudo, a suburb of Tokyo. Artists from all disciplines are invited to spend up to one month in residence, with fully funded accommodation and studio. PARADISE AIR prioritises experimental, process-based work and engagement with the local community.",
     "eligibility": "Artists internationally in all disciplines. Rolling applications.",
-    "url": "https://www.paradise-air.com"
+    "url": "https://www.paradiseair.info/en/opencall/"
   },
   {
     "id": 372,
@@ -6999,7 +6999,7 @@
     ],
     "description": "AFAC supports Arab artists, filmmakers, writers, and cultural practitioners with project grants and production support. The Visual Arts programme funds independent arts projects, exhibitions, residencies, and publications by Arab artists. AFAC is the largest independent arts fund dedicated to Arab cultural production.",
     "eligibility": "Arab artists and cultural practitioners from the 22 Arab countries. Projects may take place anywhere in the world.",
-    "url": "https://www.arabculturefund.org/en/programs/visual-arts"
+    "url": "https://www.arabculturefund.org/Programs/22"
   },
   {
     "id": 374,
@@ -7033,7 +7033,7 @@
     ],
     "description": "The Thami Mnyele Foundation, named after the South African artist and ANC cadre Thami Mnyele, offers residencies in Amsterdam specifically for artists from Africa. Residents receive a studio, accommodation, and a monthly stipend for a three-month period. The foundation aims to support the internationalisation of African contemporary art.",
     "eligibility": "Artists from African countries. All visual art disciplines.",
-    "url": "https://thamimnyele.nl/residency"
+    "url": "https://www.thami-mnyele.nl/apply-for-a-residency"
   },
   {
     "id": 376,
@@ -7052,7 +7052,7 @@
     ],
     "description": "Kuonyesha Art Fund supports contemporary visual arts in East Africa through project grants, residencies, and professional development support. The fund provides flexible support for artists, curators, and arts organisations across Kenya, Uganda, Tanzania, and Rwanda. Rolling applications are accepted year-round.",
     "eligibility": "Artists and arts organisations in East Africa. All visual art disciplines.",
-    "url": "https://kuonyesha.org"
+    "url": "https://kuonyesha.civsourceafrica.com/how-to-apply"
   },
   {
     "id": 377,
@@ -7071,7 +7071,7 @@
     ],
     "description": "Capacete offers educational residency programmes in Rio de Janeiro for artists and art workers, combining studio practice with an intensive study programme. Residents engage with local artists, critics, and curators over two to three month periods. The programme has a strong commitment to experimental and politically engaged practice.",
     "eligibility": "Artists, curators, and art workers internationally at any career stage. Rolling applications.",
-    "url": "https://capacete.org"
+    "url": "https://capacete.org/about/?lang=en"
   },
   {
     "id": 378,
@@ -7090,7 +7090,7 @@
     ],
     "description": "Lugar a Dudas is an artist-run space in Cali offering residencies for local and international artists. Residents receive a studio and accommodation for one to two months and engage with Colombia's arts community. The programme focuses on exchange between international and Latin American artists and encourages community engagement.",
     "eligibility": "Artists internationally in all disciplines. Rolling applications.",
-    "url": "https://lugardudas.org"
+    "url": "https://lugardudas.org/residencias/"
   },
   {
     "id": 379,
@@ -7110,7 +7110,7 @@
     ],
     "description": "Videobrasil supports video art, performance, and new media from the Global South through its international festival and residency grants. The residency grant programme funds artists from the Southern hemisphere to undertake residencies in São Paulo and internationally. One of the most important platforms for contemporary art from Africa, Asia, and Latin America.",
     "eligibility": "Artists from the Global South — Africa, Asia, Latin America, the Middle East, and Oceania.",
-    "url": "https://www.videobrasil.org.br/en"
+    "url": "https://site.videobrasil.org.br/en/residencias/sobre"
   },
   {
     "id": 380,
@@ -7129,7 +7129,7 @@
     ],
     "description": "The Argentine Fondo Nacional de las Artes offers grants and residencies to Argentine artists and invites international artists to Buenos Aires for cultural exchange residencies. The programme supports production, exhibition, and professional development across all disciplines. One of the oldest arts funding bodies in Latin America, founded in 1958.",
     "eligibility": "Argentine artists and international artists invited through exchange programmes.",
-    "url": "https://www.fnartes.gob.ar/becas-y-subsidios"
+    "url": "https://www.fnartes.gob.ar/subsidios"
   },
   {
     "id": 381,
@@ -7148,7 +7148,7 @@
     ],
     "description": "The Visible Award recognises artistic projects that engage with social transformation and community. Awarded biennially, the prize of €15,000 goes to an artist or collective whose work operates at the intersection of art and civic life. Shortlisted projects are featured in a travelling exhibition and the Visible book.",
     "eligibility": "Artists and collectives internationally whose practice engages with social transformation.",
-    "url": "https://www.visibleproject.org"
+    "url": "https://artesmundi.org/am11-nominations/"
   },
   {
     "id": 382,
@@ -7167,7 +7167,7 @@
     ],
     "description": "Artes Mundi is an international contemporary art prize and exhibition based in Cardiff. With a prize of £40,000, it is one of the largest art prizes in the UK. The biennial prize focuses on artists whose practice engages with the human condition, society, and international contemporary issues. Six shortlisted artists exhibit at National Museum Cardiff.",
     "eligibility": "Artists internationally nominated through Artes Mundi's global nomination network.",
-    "url": "https://www.artesmundi.org"
+    "url": "https://artesmundi.org/am11-nominations/"
   },
   {
     "id": 383,
@@ -7187,7 +7187,7 @@
     ],
     "description": "The Loewe Foundation Craft Prize celebrates excellence and innovation in craft internationally. The annual prize awards €50,000 to a craftsperson of any discipline and nationality. A further 29 finalists receive special mentions and participate in a global touring exhibition. The prize has become one of the most important platforms for contemporary craft.",
     "eligibility": "Craftspeople internationally in any discipline. Applications through the Loewe Foundation website.",
-    "url": "https://www.loewefoundation.com/craft-prize"
+    "url": "https://www.loewefoundation.com/en/craft-prize"
   },
   {
     "id": 384,
@@ -7226,7 +7226,7 @@
     ],
     "description": "The Future Generation Art Prize is a global award for artists under 35, awarded biennially by the PinchukArtCentre in Kyiv. The main prize of $100,000 is awarded to one artist, with special prizes totalling $20,000 for others. Shortlisted artists exhibit in a major international show. One of the most significant prizes for emerging artists globally.",
     "eligibility": "Artists under 35 internationally. Open submission.",
-    "url": "https://futuregenerationartprize.org"
+    "url": "https://futuregenerationartprize.org/en/rules"
   },
   {
     "id": 386,
@@ -7245,7 +7245,7 @@
     ],
     "description": "Onassis AiR (Artists in Residence) is Athens' leading international residency programme, hosted by the Onassis Foundation. Artists receive a studio, housing, and stipend for one to three month residencies. The programme focuses on contemporary art practice and exchange with Greece's cultural scene, with regular public presentations.",
     "eligibility": "Professional artists and curators internationally at mid-career stage.",
-    "url": "https://www.onassis.org/air"
+    "url": "https://www.onassis.org/initiatives/onassis-air"
   },
   {
     "id": 387,
@@ -7264,7 +7264,7 @@
     ],
     "description": "Wellcome Photography Fund supports photographers exploring health and biomedicine. Grants of up to £30,000 fund documentary and fine art photography projects that broaden understanding of health, science, and medicine. The fund supports both long-form documentary projects and experimental approaches to biomedical subjects.",
     "eligibility": "Photographers and lens-based artists internationally. Projects must engage meaningfully with health or biomedicine.",
-    "url": "https://wellcome.org/grant-funding/schemes/photography-fund"
+    "url": "https://wellcome.org/engagement-and-advocacy/engaging-people/wellcome-photography-prize"
   },
   {
     "id": 388,
@@ -7283,7 +7283,7 @@
     ],
     "description": "The Hyundai Tate Research Centre supports research into transnational contemporary art through grants and fellowships. Researchers and artists receive funding for projects exploring art beyond national boundaries, with access to Tate's vast collection and libraries. The programme specifically focuses on underrepresented regions and practices.",
     "eligibility": "Researchers, curators, and artists internationally engaged with transnational contemporary art.",
-    "url": "https://www.tate.org.uk/research/research-centres/hyundai-tate-research-centre"
+    "url": "https://www.tate.org.uk/research/research-centres/hyundai-tate-research-centre-transnational"
   },
   {
     "id": 389,
@@ -7398,7 +7398,7 @@
     ],
     "description": "The Méditerranée Lab is a collaborative residency platform connecting artists across the Mediterranean basin. Supported by Creative Europe, it offers residencies in Barcelona and partner cities in North Africa and Southern Europe. Artists undertake two-month cross-cultural residencies with a focus on Mediterranean exchange.",
     "eligibility": "Artists from Mediterranean countries and internationally with strong ties to Mediterranean themes.",
-    "url": "https://iaspis.se/en/residencies"
+    "url": "https://www.konstnarsnamnden.se/en/international-programmes-and-residencies/iaspis-international-programme-for-visual-and-applied-arts/iaspis-residency-programmes/"
   },
   {
     "id": 395,
@@ -7434,7 +7434,7 @@
     ],
     "description": "The Frieze Artist Award is an annual commission for an artist to create new work for Frieze London. The selected artist receives full production support and a budget to create a major new commission presented in the heart of Frieze London. Previous recipients include Mika Rottenberg, Cecilia Bengolea, and Lawrence Abu Hamdan.",
     "eligibility": "Artists internationally at all career stages. Open submission.",
-    "url": "https://www.frieze.com/fairs/frieze-london/frieze-artist-award"
+    "url": "https://www.frieze.com/tags/frieze-artist-award"
   },
   {
     "id": 397,
@@ -7473,7 +7473,7 @@
     ],
     "description": "Contour Biennale is a major international moving image and video art festival in Mechelen, Belgium. The open call invites proposals for new commissions and existing works. Selected artists receive commission fees, production support, and exhibition. The 11th edition explores new themes in contemporary moving image.",
     "eligibility": "Moving image and video artists internationally.",
-    "url": "https://www.contour.be/open-call"
+    "url": "https://contourbiennale.org/en/"
   },
   {
     "id": 399,
