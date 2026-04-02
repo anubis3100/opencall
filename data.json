@@ -2932,7 +2932,7 @@
     ],
     "description": "The Art of Change 21 Award recognises artists whose practice demonstrates a commitment to reducing environmental impact. The prize supports the development of sustainable art practice and connects recipients with an international network of eco-conscious artists.",
     "eligibility": "French residents who are not students.",
-    "url": "https://artofchange21.com/en/actions-eng/"
+    "url": "https://artofchange21.com/en/portfolio-items/eco-design-prize/"
   },
   {
     "id": 167,
@@ -3966,25 +3966,6 @@
     "eligibilityTags": [
       "bipoc"
     ]
-  },
-  {
-    "id": 222,
-    "type": "grant",
-    "title": "LACMA Art + Technology Lab Grant",
-    "org": "Los Angeles County Museum of Art",
-    "location": "Los Angeles, USA",
-    "region": "north-america",
-    "deadline": "2026-04-22",
-    "amount": "Up to $50,000 per project + in-kind support",
-    "discipline": [
-      "New Media",
-      "Technology",
-      "Interdisciplinary",
-      "Research"
-    ],
-    "description": "LACMA's Art + Technology Lab is a \"safe-to-fail\" rapid prototyping environment where artists explore artistic applications of emerging technology. The 2026 open call selects 3–5 projects for two-year grants covering artist fees, materials, and in-kind support including mentorship from Hyundai Motor, Snap Inc., Anthropic, MIT Media Lab, and NASA JPL. The Lab deliberately deemphasises the finished artwork in favour of research and experimentation.",
-    "eligibility": "Individual artists and collectives located anywhere in the world. Must propose an artist-led project with artistic merit involving emerging technology.",
-    "url": "https://www.lacma.org/art/lab/grants"
   },
   {
     "id": 223,
@@ -5180,7 +5161,7 @@
     ],
     "description": "The TSA Research Travel Grant supports members travelling to conduct textile-focused research — visiting museum collections, engaging with artists or weavers in their environments, studying special exhibitions, or other research centred on actual textiles. A small but highly targeted grant for serious textile researchers at any career stage.",
     "eligibility": "TSA members travelling for textile research. US-based.",
-    "url": "https://textilesocietyofamerica.org/grants-and-awards/"
+    "url": "https://textilesocietyofamerica.org/programs/awards-scholarships/research-travel-grant/research-travel-grant-application"
   },
   {
     "id": 284,
@@ -5361,25 +5342,6 @@
     "eligibility": "Professional artists internationally in all disciplines listed. $35 application fee.",
     "url": "https://www.yaddo.org/apply/",
     "fee": true
-  },
-  {
-    "id": 293,
-    "type": "grant",
-    "title": "LACMA Art + Technology Lab Grant",
-    "org": "Los Angeles County Museum of Art",
-    "location": "Los Angeles, CA, USA / International",
-    "region": "north-america",
-    "deadline": "2026-04-22",
-    "amount": "Up to $50,000 per project",
-    "discipline": [
-      "Digital Art",
-      "New Media",
-      "Technology",
-      "All Disciplines"
-    ],
-    "description": "LACMA's Art + Technology Lab supports artists and collectives exploring emerging technologies through two-year grants of up to $50,000 covering artist fees and direct costs. In 2026, three to five projects will be selected via open call. Recipients also receive in-kind support including mentorship and access to partner technologies from Hyundai Motor, Snap, Anthropic, MIT Media Lab, and NASA JPL.",
-    "eligibility": "Individual artists and collectives located anywhere in the world. Projects must be artist-led and explore new frontiers in art and technology.",
-    "url": "https://www.lacma.org/art/lab/grants"
   },
   {
     "id": 294,

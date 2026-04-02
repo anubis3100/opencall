@@ -1,0 +1,19 @@
+name = "opencall-worker"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# ── KV namespace ──────────────────────────────────────────────────────────
+# Run `wrangler kv:namespace create LISTINGS_KV` to create this,
+# then paste the id it gives you below.
+[[kv_namespaces]]
+binding = "LISTINGS_KV"
+id = "your-kv-namespace-id-here"   # Run: wrangler kv:namespace create LISTINGS_KV
+
+# ── Cron trigger ──────────────────────────────────────────────────────────
+# Runs every Monday at 00:00 UTC to check all listing URLs
+[triggers]
+crons = ["0 0 * * 1"]
+
+# ── Secrets (set via wrangler secret put, never hardcode) ─────────────────
+# API_KEY — a secret string you invent, used to authenticate admin calls
+# Set it with: wrangler secret put API_KEY
