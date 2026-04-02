@@ -8,7 +8,7 @@
 // If you've deployed the Cloudflare Worker, replace null below with your
 // worker URL, e.g.: 'https://opencall-worker.your-name.workers.dev/data.json'
 // While null, the site falls back to the local data.json file.
-const WORKER_URL = null;
+const WORKER_URL = 'https://opencall-worker.opencall2026.workers.dev/data.json';
 
 const DATA_URL = WORKER_URL || 'data.json';
 
