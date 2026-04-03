@@ -10,10 +10,23 @@
 // While null, the site falls back to the local data.json file.
 const WORKER_URL = 'https://opencall-worker.opencall2026.workers.dev/data.json';
 
-const DATA_URL = WORKER_URL || 'data.json';
+// Try the worker first; if it's unavailable or returns non-array data, fall
+// back to the bundled data.json so the site always has listings to display.
+async function loadListings() {
+  if (WORKER_URL) {
+    try {
+      const r = await fetch(WORKER_URL);
+      const data = await r.json();
+      if (Array.isArray(data) && data.length > 0) return data;
+    } catch (e) {
+      console.warn('Worker unavailable, falling back to data.json:', e);
+    }
+  }
+  const r = await fetch('data.json');
+  return r.json();
+}
 
-fetch(DATA_URL)
-  .then(r => r.json())
+loadListings()
   .then(data => init(data))
   .catch(err => {
     console.error('Failed to load listings:', err);
