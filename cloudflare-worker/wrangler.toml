@@ -7,7 +7,7 @@ compatibility_date = "2024-01-01"
 # then paste the id it gives you below.
 [[kv_namespaces]]
 binding = "LISTINGS_KV"
-id = "your-kv-namespace-id-here"   # Run: wrangler kv:namespace create LISTINGS_KV
+id = "f0113eb526d240dca7f1aa1711c65038"
 
 # ── Cron trigger ──────────────────────────────────────────────────────────
 # Runs every Monday at 00:00 UTC to check all listing URLs
