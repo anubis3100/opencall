@@ -585,7 +585,6 @@ function cardHTML(o, closed=false) {
       <div style="display:flex;align-items:center;gap:0.4rem">
         <span class="card-type type-${o.type}">${o.type}</span>
         ${o.fee ? '<span class="fee-badge">⚠ App. fee</span>' : ''}
-        ${o.deadLink ? '<span class="dead-link-badge" title="Link may be broken — verify on the funder\'s site">⚠ link</span>' : ''}
       </div>
       <div class="card-actions">
         <span class="card-deadline ${dl.urgent?'urgent':''}">${dl.text}</span>
